@@ -39,6 +39,7 @@ def main():
             t = DEFAULT_BREAK
         print("Break time!")
         wait(t)
-        winsound.Beep(500,2000)
+        winsound.Beep(500,750)
+        winsound.Beep(500,750)
     
 main()
