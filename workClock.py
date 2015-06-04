@@ -25,21 +25,21 @@ def main():
 
     
     while(True):
-        if automatic != "y":
-            t = int(input("Work how long? "))
-        else:
+        if automatic == "y":
             t = DEFAULT_WORK
-        print("Work time!")
-        wait(t)
-        winsound.Beep(300,2000)
-
-        if automatic != "y":
-            t = int(input("Rest how long? "))
         else:
-            t = DEFAULT_BREAK
-        print("Break time!")
+            t = int(input("Work how long? "))
+        print("Work time!")
+        winsound.Beep(300,2000)
         wait(t)
+
+        if automatic == "y":
+            t = DEFAULT_BREAK
+        else:
+            t = int(input("Rest how long? "))
+        print("Break time!")
         winsound.Beep(500,750)
         winsound.Beep(500,750)
+        wait(t)
     
 main()
