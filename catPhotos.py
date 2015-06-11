@@ -11,9 +11,12 @@ try:
     request = Request(url)
     response = urlopen(request)
     kitteh = response.read()
-    print(kitteh)
-    with open("cat.png", "wb") as picture:
-        picture.write(kitteh)
-        picture.close()
+    print()
+    if kitteh != bytes(0):
+        with open("cat.png", "wb") as picture:
+           picture.write(kitteh)
+           print("Output as cat.png")
+    else:
+        print("There was no image of that size.")
 except URLError:
     print("no kittehz")
