@@ -6,12 +6,12 @@ url = "http://placekitten.com/g"
 url += "/" + input("Width? ")
 url += "/" + input("Height? ")
 print(url)
+print()
 
 try:
     request = Request(url)
     response = urlopen(request)
     kitteh = response.read()
-    print()
     if kitteh != bytes(0):
         with open("cat.png", "wb") as picture:
            picture.write(kitteh)
