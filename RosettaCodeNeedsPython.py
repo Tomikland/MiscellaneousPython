@@ -1,4 +1,3 @@
-'''Finds a list of Rosetta Code draft problems that lack Python solutions.'''
 __author__ = 'Mike'
 from urllib.request import *
 import re
@@ -31,4 +30,4 @@ for extension in articles:
 print()
 print("There are", len(no_python_sols), "draft tasks without Python solutions.")
 for art in no_python_sols:
-    print("\t" + art.replace("_", " ")[6:])
+    print("\t" + art.replace("_", " ")[6:] + "\t(" + base_url+art + ")")
