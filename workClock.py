@@ -1,7 +1,7 @@
 import time
 import winsound
 
-SECONDS_IN_MIN = 1
+SECONDS_IN_MIN = 60
 DEFAULT_WORK = 10
 DEFAULT_BREAK = 5
 
