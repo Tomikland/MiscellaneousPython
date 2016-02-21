@@ -24,17 +24,17 @@ def console_print_char_and_apps(characters, appearance_lists):
 def reverse_appearances(the_name, the_characters, the_appearance_lists):
     """Some characters, such as Conan, have lists of episodes in which they DON'T appear."""
     conan = the_characters.index(the_name)
-    episodes_with_conan = list(range(1, 800))
-    #print(episodes_with_conan)
-    #print(conan)
-    #print(the_appearance_lists[conan])
-    for ep in the_appearance_lists[conan]:
-        print("Removed", ep)
-        del episodes_with_conan[int(ep)-1]
-    the_appearance_lists[conan] = episodes_with_conan
+    print(the_appearance_lists[conan])
+    latest_ep = 0
+    for each in the_appearance_lists:
+        if max(each) > latest_ep:
+            latest_ep = max(each)
+    episodes_with_conan = set(list(range(1, latest_ep+1)))
+    the_appearance_lists[conan] = list(episodes_with_conan - set(the_appearance_lists[conan]))
 
 def getEpisodeTitles():
     pass
+
 def main():
     print("Getting characters")
     characters = get_characters()
@@ -45,7 +45,13 @@ def main():
         html = requests.get(URL_START + person + PAGE_URL_END).text
         start = html.find(r'=edit&amp;section=2')
         end = html.find('/table', start)
-        episodes = re.findall(r"<li>.+<b>Episode (.+?)</b>", html[start:end])
+        episodes_str = re.findall(r"<li>.+<b>Episode (.+?)</b>", html[start:end])
+        episodes = []
+        for ep in episodes_str:
+            if not ep.isdigit():
+                ep = re.sub(r"([^\d]+)", r"", ep)
+                print("CHANGED", ep) 
+            episodes.append(int(ep))
         appearance_lists.append(episodes)
         print(i)
         i+=1
