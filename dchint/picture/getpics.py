@@ -12,13 +12,16 @@ from docopt import docopt
 arguments = docopt(__doc__)
 print arguments
 
+def zext4(string):
+    return ('0' * (4-len(string))) + string
+
 def compile_data():
     data = dict()
 
     data[1996] = dict()
     data[1996]["video"] = "./clips/1996HINTS.mp4"
-    data[1996]["times"] = [0, 11000, 21000, 31000, 41000, 51000, 61000, 71000, 81000, 91000, 101000, 111000, 121000, 131000, 141000, 151000, 161000, 171000, 181000, 191000, 201000, 211000, 221000, 231000, 241000, 251000, 261000, 271000, 281000, 291000, 301000, 311000, 321000, 331000, 341000, 351000, 361000, 371000, 381000, 391000, 401000]
-    data[1996]["starting case"] = 1
+    data[1996]["times"] = [0, 10000, 20000, 30000, 40000, 50000, 60000, 69000, 76000, 85000, 95000, 105000, 115000, 125000, 135000, 145000, 154000, 164000, 174000, 182000, 192000, 203000, 213000, 222000, 235000, 244000, 254000, 264000, 276000, 287000, 298000, 309000, 319000, 330000, 339000, 352000, 363000, 372000, 384000, 394000, 404000, 413000]
+    data[1996]["starting case"] = 2
 
     data[1997] = dict()
     data[1997]["video"] = "./clips/1997HINTS.mp4"
@@ -69,9 +72,9 @@ def getpics(data, year):
     for time in data[year]["times"]:
         cap.set(cv2.CAP_PROP_POS_MSEC, time)
         success, image = cap.read()
-        print hintnum 
+        print hintnum, time 
         if success:
-            cv2.imwrite("pics/" + str(year) + "/nch "+str(hintnum)+".png", image)
+            cv2.imwrite("pics/" + str(year) + "/nch "+zext4(str(hintnum))+".png", image)
             cv2.imshow("20sec", image)
             cv2.waitKey()
         else:
@@ -81,7 +84,6 @@ def getpics(data, year):
         hintnum += 1
 
 def main():
-    print arguments
     if arguments["<YEAR>"]:
         getpics(compile_data(), int(arguments["<YEAR>"]))
     else:
