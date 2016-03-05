@@ -1,7 +1,7 @@
 '''Kills all Spotify processes after two hours, so that it doesn't keep playing all night.
 Displays the time remaining to the command line.
 Remixing of killVivaldi.py and workClock.py.'''
-from subprocess import Popen, PIPE
+from subprocess import Popen, PIPE, check_output
 from re import findall
 import os
 import time
@@ -53,9 +53,14 @@ for i in range (two_hours):
     time_remaining -= 1
     ouput_time_remaining(time_remaining)
 
-p = Popen('tasklist /svc /fi "imagename eq Spotify.exe"', stdout=PIPE).stdout
-tasklist = p.read().decode('UTF-8')
-spotifyPids = findall('\d+', tasklist)
+#p = Popen('tasklist /svc /fi "imagename eq Spotify.exe"', stdout=PIPE).stdout
+#p = Popen('ps -A', stdout=PIPE).stdout
+p = check_output(['ps', '-A'])
+#tasklist = p.read().decode('UTF-8')
+tasklist = p.decode('UTF-8')
+#spotifyPids = findall('\d+', tasklist)
+spotifyPids = findall('(\d+) .+ spotify', tasklist)
+print(spotifyPids)
 
 try:
     for pid in spotifyPids:
