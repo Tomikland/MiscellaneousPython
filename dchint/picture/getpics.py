@@ -75,8 +75,8 @@ def getpics(data, year):
         print hintnum, time 
         if success:
             cv2.imwrite("pics/" + str(year) + "/nch "+zext4(str(hintnum))+".png", image)
-            cv2.imshow("20sec", image)
-            cv2.waitKey()
+            #cv2.imshow("20sec", image)
+            #cv2.waitKey()
         else:
             print "broke on " + str(hintnum)
             break
