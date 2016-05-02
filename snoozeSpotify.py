@@ -41,7 +41,8 @@ def ouput_time_remaining(seconds):
         else:
             output += " "
 
-    os.system("cls")
+    #os.system("cls")
+    os.system("clear")
     print("Time remaining:", output)
 
 
