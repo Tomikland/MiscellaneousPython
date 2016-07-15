@@ -1,3 +1,4 @@
+import cv
 import cv2
 from docopt import docopt
 
@@ -51,7 +52,7 @@ def getpics(data):
         # case min 1 because the hint is for last episode
         hintnum = data[year]["starting case"] - 1 
         for time in range(0, 500000, 2500): 
-            cap.set(cv2.CAP_PROP_POS_MSEC, time)
+            cap.set(cv.CV_CAP_PROP_POS_MSEC, time)
             success, image = cap.read()
             print hintnum, time 
             if success:
