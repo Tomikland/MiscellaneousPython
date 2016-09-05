@@ -47,7 +47,7 @@ def compile_data():
     return data
 
 def getpics(data):
-    for year in range(1996,2004-1):
+    for year in range(1996,2004+1):
         cap = cv2.VideoCapture(data[year]["video"])
         # case min 1 because the hint is for last episode
         hintnum = data[year]["starting case"] - 1 
