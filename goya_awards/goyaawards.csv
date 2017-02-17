@@ -1,0 +1,1478 @@
+nomination_id,year,award,name,is_winner,movie
+1,1986,Best Film,,Winner,Voyage to Nowhere
+2,1986,Best Film,,Nominated,27 Hours
+3,1986,Best Film,,Nominated,Half of Heaven
+4,1986,Best Director,Fernando Fernán Gómez,Winner, Voyage to Nowhere
+5,1986,Best Director,Emilio Martínez Lázaro,Nominated, Lulu by Night
+6,1986,Best Director,Pilar Miró,Nominated, Werther
+7,1986,Best Actor,Fernando Fernán Gómez,Winner, Mambru Went to War
+8,1986,Best Actor,Juan Diego,Nominated, Dragon rapide
+9,1986,Best Actor,Jorge Sanz,Nominated, The Year of the Awakening
+10,1986,Best Actress,Amparo Rivelles,Winner, Hay que deshacer la casa
+11,1986,Best Actress,Victoria Abril,Nominated, Time of Silence
+12,1986,Best Actress,Ángela Molina,Nominated, Half of Heaven
+13,1986,Best Supporting Actor,Miguel Rellán,Winner, Dear Nanny
+14,1986,Best Supporting Actor,Antonio Banderas,Nominated, Matador
+15,1986,Best Supporting Actor,Agustín González,Nominated, Mambru Went to War
+16,1986,Best Supporting Actress,Verónica Forqué,Winner, The Year of the Awakening
+17,1986,Best Supporting Actress,Chus Lampreave,Nominated, The Year of the Awakening
+18,1986,Best Supporting Actress,María Luisa Ponte,Nominated, The Bastard Brother of God
+19,1986,Best Screenplay, Fernando Fernán Gómez,Winner,Voyage to Nowhere
+20,1986,Best Screenplay, Pedro Beltrán,Nominated,Mambru Went to War
+21,1986,Best Screenplay, José Luis Borau,Nominated,Dear Nanny
+22,1986,Best Spanish Language Foreign Film,Argentina,Winner,A King and His Movie 
+23,1986,Best Spanish Language Foreign Film,Venezuela,Nominated,Little Revenge 
+24,1986,Best Spanish Language Foreign Film,Colombia,Nominated,A Time to Die 
+25,1987,Best Film,,Winner,El bosque animado
+26,1987,Best Film,,Nominated,Divinas palabras
+27,1987,Best Film,,Nominated,El Lute: Run for Your Life
+28,1987,Best Director,José Luis Garci,Winner, Course Completed
+29,1987,Best Director,Vicente Aranda,Nominated, El Lute: Run for Your Life
+30,1987,Best Director,Bigas Luna,Nominated, Anguish
+31,1987,Best Actor,Alfredo Landa,Winner, El bosque animado
+32,1987,Best Actor,Imanol Arias,Nominated, Lute: Run for Your Life
+33,1987,Best Actor,José Manuel Cervino,Nominated, The war of fools
+34,1987,Best Actress,Verónica Forqué,Winner, A Merry Life
+35,1987,Best Actress,Victoria Abril,Nominated, Lute: Run for Your Life
+36,1987,Best Actress,Irene Gutiérrez,Nominated, The House of Bernarda Alba
+37,1987,Best Supporting Actor,Juan Echanove,Winner, Divinas palabras
+38,1987,Best Supporting Actor,Agustín González,Nominated, Moors and Christians
+39,1987,Best Supporting Actor,Pedro Ruiz,Nominated, Moors and Christians
+40,1987,Best Supporting Actress,Verónica Forqué,Winner, Moors and Christians
+41,1987,Best Supporting Actress,Marisa Paredes,Nominated, Silver-Beet Face
+42,1987,Best Supporting Actress,Terele Pávez,Nominated, Laura
+43,1987,Best Screenplay, Rafael Azcona,Winner,El bosque animado
+44,1987,Best Screenplay, Manolo Matji,Nominated,The war of fools
+45,1987,Best Screenplay, Rafael Azcona and Luis García Berlanga,Nominated,Moors and Christians
+46,1987,Best Spanish Language Foreign Film,Mexico,Winner,Life Is Most Important 
+47,1987,Best Spanish Language Foreign Film,Argentina,Nominated,Man Facing Southeast 
+48,1987,Best Spanish Language Foreign Film,Cuba,Nominated,A Successful Man 
+49,1988,Best Film,,Winner,Women on the Verge of a Nervous Breakdown
+50,1988,Best Film,,Nominated,Rowing with the Wind
+51,1988,Best Film,,Nominated,The Tunnel
+52,1988,Best Film,,Nominated,Wait for Me in Heaven
+53,1988,Best Film,,Nominated,Winter Diary
+54,1988,Best Director,Gonzalo Suárez,Winner, Rowing with the Wind
+55,1988,Best Director,Pedro Almodóvar,Nominated, Women on the Verge of a Nervous Breakdown
+56,1988,Best Director,Ricardo Franco,Nominated, Berlin Blues
+57,1988,Best Director,Antonio Mercero,Nominated, Wait for Me in Heaven
+58,1988,Best Director,Francisco Regueiro,Nominated, Winter Diary
+59,1988,Best Actor,Fernando Rey,Winner, Winter Diary
+60,1988,Best Actor,Imanol Arias,Nominated, El Lute II: Tomorrow I'll be Free
+61,1988,Best Actor,Antonio Ferrandis,Nominated, Jarrapellejos
+62,1988,Best Actor,Alfredo Landa,Nominated, Sinatra
+63,1988,Best Actor,José Soriano,Nominated, Wait for Me in Heaven
+64,1988,Best Actress,Carmen Maura,Winner, Women on the Verge of a Nervous Breakdown
+65,1988,Best Actress,Victoria Abril,Nominated, Bâton Rouge
+66,1988,Best Actress,Ana Belén,Nominated, Miss Caribe
+67,1988,Best Actress,María Fernanda d'Ocón,Nominated, Caminos de tiza
+68,1988,Best Actress,Ángela Molina,Nominated, Luces y sombras
+69,1988,Best Supporting Actor,José Sazatornil,Winner, Wait for Me in Heaven
+70,1988,Best Supporting Actor,Ángel de Andrés López,Nominated, Bâton Rouge
+71,1988,Best Supporting Actor,José Luis Gómez,Nominated, Rowing with the Wind
+72,1988,Best Supporting Actor,Guillermo Montesinos,Nominated, Women on the Verge of a Nervous Breakdown
+73,1988,Best Supporting Actor,Jorge Sanz,Nominated, El Lute II: Tomorrow I'll be Free
+74,1988,Best Supporting Actress,María Barranco,Winner, Women on the Verge of a Nervous Breakdown
+75,1988,Best Supporting Actress,Laura Cepeda,Nominated, Bâton Rouge
+76,1988,Best Supporting Actress,Chus Lampreave,Nominated, Wait for Me in Heaven
+77,1988,Best Supporting Actress,Terele Pávez,Nominated, Winter Diary
+78,1988,Best Supporting Actress,Julieta Serrano,Nominated, Women on the Verge of a Nervous Breakdown
+79,1988,Best Original Screenplay, Pedro Almodóvar,Winner,Women on the Verge of a Nervous Breakdown
+80,1988,Best Original Screenplay, Agustín Díaz and Rafael Moleón,Nominated,Bâton rouge
+81,1988,Best Original Screenplay," Román Gubern, Antonio Mercero and Horacio Valcárcel",Nominated,Wait for Me in Heaven
+82,1988,Best Adapted Screenplay, Antonio Giménez-Rico and Manuel Gutiérrez,Winner,Jarrapellejos
+83,1988,Best Adapted Screenplay," Vicente Aranda, Joaquim Jordà and Eleuterio Sánchez",Nominated,El Lute II: Tomorrow I'll be Free
+84,1988,Best Adapted Screenplay, Félix Rotaeta,Nominated,The Pleasure of Killing
+85,1988,Best Adapted Screenplay," Jorge R. del Alamo, Gabriel Castro and Antonio Isasi-Isasmendi",Nominated,Scent of a Crime
+86,1988,Best Adapted Screenplay," Carlos A. Cornejo, Antonio Drove and José A. Mahieu",Nominated,The Tunnel
+87,1989,Best Film,,Winner,Twisted Obsession
+88,1989,Best Film,,Nominated,Esquilache
+89,1989,Best Film,,Nominated,Montoyas y Tarantos
+90,1989,Best Film,,Nominated,Moon Child
+91,1989,Best Film,,Nominated,The Sea and the Weather
+92,1989,Best Director,Fernando Trueba,Winner, Twisted Obsession
+93,1989,Best Director,Vicente Aranda,Nominated, If They Tell You I Fell
+94,1989,Best Director,Fernando Fernán,Nominated, The Sea and the Weather
+95,1989,Best Director,Josefina Molina,Nominated, Esquilache
+96,1989,Best Director,Agustí Villaronga,Nominated, Moon Child
+97,1989,Best Actor,Jorge Sanz,Winner, If They Tell You I Fell
+98,1989,Best Actor,Fernando Fernán,Nominated, Esquilache
+99,1989,Best Actor,Fernando Fernán,Nominated, The Sea and the Weather
+100,1989,Best Actor,Juan Diego,Nominated, The Dark Night of the Soul
+101,1989,Best Actor,Alfredo Landa,Nominated, El Río Que Nos Lleva
+102,1989,Best Actress,Rafaela Aparicio,Winner, The Sea and the Weather
+103,1989,Best Actress,Victoria Abril,Nominated, If They Tell You I Fell
+104,1989,Best Actress,Ana Belén,Nominated, The Flight of the Dove
+105,1989,Best Actress,Verónica Forqué,Nominated, Going South Shopping
+106,1989,Best Actress,Ángela Molina,Nominated, The Things of Love
+107,1989,Best Supporting Actor,Adolfo Marsillach,Winner, Esquilache
+108,1989,Best Supporting Actor,Juan Echanove,Nominated, The Flight of the Dove
+109,1989,Best Supporting Actor,Juan Luis Galiardo,Nominated, The Flight of the Dove
+110,1989,Best Supporting Actor,Fernando Guillén,Nominated, The Dark Night of the Soul
+111,1989,Best Supporting Actor,Manuel Huete,Nominated, The Flight of the Dove
+112,1989,Best Supporting Actor,Enrique San Francisco,Nominated, El Baile del Pato
+113,1989,Best Supporting Actress,María Asquerino,Winner, The Sea and the Weather
+114,1989,Best Supporting Actress,María Barranco,Nominated, The Things of Love
+115,1989,Best Supporting Actress,Chus Lampreave,Nominated, Going South Shopping
+116,1989,Best Supporting Actress,Amparo Rivelles,Nominated, Esquilache
+117,1989,Best Supporting Actress,Concha Velasco,Nominated, Esquilache
+118,1989,Best Original Screenplay, Agustí Villaronga,Winner,Moon Child
+119,1989,Best Original Screenplay, José Luis Cuerda,Nominated,"Amanece, que no es poco"
+120,1989,Best Original Screenplay, Manuel Iborra,Nominated,El Baile del Pato
+121,1989,Best Original Screenplay, Rafael Azcona and José Luis García,Nominated,The Flight of the Dove
+122,1989,Best Original Screenplay," Jaime Chávarri, Fernando Colomo, Lázaro Irazábal and Antonio Larreta",Nominated,The Things of Love
+123,1989,Best Adapted Screenplay," Manolo Matji, Menno Meyjes and Fernando Trueba",Winner,Twisted Obsession
+124,1989,Best Adapted Screenplay," Josefina Molina, Joaquín Oristrell and José Sámano",Nominated,Esquilache
+125,1989,Best Adapted Screenplay," Fernando Colomo, José Luis Alonso de Santos and Joaquín Oristrell",Nominated,Going South Shopping
+126,1989,Best Adapted Screenplay, Vicente Aranda,Nominated,If They Tell You I Fell
+127,1989,Best Adapted Screenplay, Fernando Fernán,Nominated,The Sea and the Weather
+128,1989,Best New Director, Ander Eta Yul,Winner,Ana Díez
+129,1989,Best New Director, Brumal,Nominated,Cristina Andreu
+130,1989,Best New Director, Too Old to Die Young,Nominated,Isabel Coixet
+131,1989,Best New Director, Guarapo,Nominated,Santiago and Teodoro Ríos
+132,1989,Best New Director, Continental,Nominated,Xavier Villaverde
+133,1989,Best Animated Film,,Winner,Town Musicians of Bremen
+134,1989,Best Spanish Language Foreign Film,Venezuela,Winner,Aventurera 
+135,1990,Best Film,,Winner,"¡Ay, Carmela!"
+136,1990,Best Film,,Nominated,Letters from Alou
+137,1990,Best Film,,Nominated,Tie Me Up! Tie Me Down!
+138,1990,Best Director,Carlos Saura,Winner," ¡Ay, Carmela!"
+139,1990,Best Director,Pedro Almodóvar,Nominated, Tie Me Up! Tie Me Down!
+140,1990,Best Director,Montxo Armendáriz,Nominated, Letters from Alou
+141,1990,Best Actor,Andrés Pajares,Winner," ¡Ay, Carmela!"
+142,1990,Best Actor,Imanol Arias,Nominated, Alone Together
+143,1990,Best Actor,Antonio Banderas,Nominated, Tie Me Up! Tie Me Down!
+144,1990,Best Actress,Carmen Maura,Winner," ¡Ay, Carmela!"
+145,1990,Best Actress,Victoria Abril,Nominated, Tie Me Up! Tie Me Down!
+146,1990,Best Actress,Charo López,Nominated, The Most Natural Thing
+147,1990,Best Supporting Actor,Gabino Diego,Winner," ¡Ay, Carmela!"
+148,1990,Best Supporting Actor,Juan Echanove,Nominated, Alone Together
+149,1990,Best Supporting Actor,Francisco Rabal,Nominated, Tie Me Up! Tie Me Down!
+150,1990,Best Supporting Actress,María Barranco,Winner, The Ages of Lulu
+151,1990,Best Supporting Actress,Rosario Flores,Nominated, Against the Wind
+152,1990,Best Supporting Actress,Loles León,Nominated, Tie Me Up! Tie Me Down!
+153,1990,Best Original Screenplay, Montxo Armendáriz,Winner,Letters from Alou
+154,1990,Best Original Screenplay," Eduardo Calvo, Agustín Díaz and Manolo Matji",Nominated,Alone Together
+155,1990,Best Original Screenplay, Pedro Almodóvar,Nominated,Tie Me Up! Tie Me Down!
+156,1990,Best Adapted Screenplay, Rafael Azcona and Carlos Saura,Winner,"¡Ay, Carmela!"
+157,1990,Best Adapted Screenplay, Almudena Grandes and Bigas Luna,Nominated,The Ages of Lulu
+158,1990,Best Adapted Screenplay, Luis Alcoriza,Nominated,The Shade of the Cypress Is Long
+159,1990,Best New Director, Boom Boom,Winner,Rosa Vergés
+160,1990,Best New Director, Black Sheep,Nominated,José María Carreño
+161,1990,Best New Director, Against the Wind,Nominated,Paco Periñán
+162,1990,Best Spanish Language Foreign Film,Peru,Winner,Fallen from Heaven 
+163,1990,Best Spanish Language Foreign Film,Chile,Nominated,Candy or Mint 
+164,1990,Best Spanish Language Foreign Film,Cuba,Nominated,María Antonia 
+165,1991,Best Film,,Winner,Lovers
+166,1991,Best Film,,Nominated,Don Juan in Hell
+167,1991,Best Film,,Nominated,The Dumbfounded King
+168,1991,Best Director,Vicente Aranda,Winner, Lovers
+169,1991,Best Director,Pilar Miró,Nominated, Prince of Shadows
+170,1991,Best Director,Imanol Uribe,Nominated, The Dumbfounded King
+171,1991,Best Actor,Fernando Guillén,Winner, Don Juan in Hell
+172,1991,Best Actor,Gabino Diego,Nominated, The Dumbfounded King
+173,1991,Best Actor,Jorge Sanz,Nominated, Lovers
+174,1991,Best Actress,Silvia Munt,Winner, Butterfly Wings
+175,1991,Best Actress,Victoria Abril,Nominated, Lovers
+176,1991,Best Actress,Maribel Verdú,Nominated, Lovers
+177,1991,Best Supporting Actor,Juan Diego,Winner, The Dumbfounded King
+178,1991,Best Supporting Actor,José Luis Gómez,Nominated, Prince of Shadows
+179,1991,Best Supporting Actor,Javier Gurruchaga,Nominated, The Dumbfounded King
+180,1991,Best Supporting Actress,Kiti Manver,Winner, Anything for Bread
+181,1991,Best Supporting Actress,María Barranco,Nominated, The Dumbfounded King
+182,1991,Best Supporting Actress,Cristina Marcos,Nominated, High Heels
+183,1991,Best Original Screenplay, Eduardo Bajo Ulloa and Juanma Bajo Ulloa,Winner,Butterfly Wings
+184,1991,Best Original Screenplay, Luis Marías,Nominated,Anything for Bread
+185,1991,Best Original Screenplay," Álvaro del Amo, Vicente Aranda and Carlos Pérez Merinero",Nominated,Lovers
+186,1991,Best Adapted Screenplay, Joan Potau and Gonzalo Torrente Malvido,Winner,The Dumbfounded King
+187,1991,Best Adapted Screenplay, Carmen Rico-Godoy,Nominated,How to Be a Woman and Not Die in the Attempt
+188,1991,Best Adapted Screenplay," Mario Camus, Pilar Miró and Juan Antonio Porto",Nominated,Prince of Shadows
+189,1991,Best New Director, Butterfly Wings,Winner,Juanma Bajo Ulloa
+190,1991,Best New Director, How to Be a Woman and Not Die in the Attempt,Nominated,Ana Belén
+191,1991,Best New Director, Pink Sauce,Nominated,Manuel Gómez Pereira
+192,1991,Best Spanish Language Foreign Film,Chile,Winner,The Frontier 
+193,1991,Best Spanish Language Foreign Film,Cuba,Nominated,Hello Hemingway 
+194,1991,Best Spanish Language Foreign Film,Venezuela,Nominated,Jericó 
+195,1991,Best Spanish Language Foreign Film,Colombia,Nominated,A Matter of Honour 
+196,1992,Best Film,,Winner,Belle Époque
+197,1992,Best Film,,Nominated,The Fencing Master
+198,1992,Best Film,,Nominated,Jamon Jamon
+199,1992,Best Director,Fernando Trueba,Winner, Belle Époque
+200,1992,Best Director,Bigas Luna,Nominated, Jamon Jamon
+201,1992,Best Director,Pedro Olea,Nominated, The Fencing Master
+202,1992,Best Actor,Alfredo Landa,Winner, La Marrana
+203,1992,Best Actor,Jorge Sanz,Nominated, Belle Époque
+204,1992,Best Actor,Javier Bardem,Nominated, Jamon Jamon
+205,1992,Best Actress,Ariadna Gil,Winner, Belle Époque
+206,1992,Best Actress,Penélope Cruz,Nominated, Jamon Jamon
+207,1992,Best Actress,Assumpta Serna,Nominated, The Fencing Master
+208,1992,Best Supporting Actor,Fernando Fernán Gómez,Winner, Belle Époque
+209,1992,Best Supporting Actor,Gabino Diego,Nominated, Belle Époque
+210,1992,Best Supporting Actor,Enrique San Francisco,Nominated, Club Virginia Orchestra
+211,1992,Best Supporting Actress,Chus Lampreave,Winner, Belle Époque
+212,1992,Best Supporting Actress,Mary Carmen Ramírez,Nominated, Belle Époque
+213,1992,Best Supporting Actress,Pastora Vega,Nominated, Too Much Heart
+214,1992,Best Original Screenplay," Rafael Azcona, José Luis García Sánchez and Fernando Trueba",Winner,Belle Époque
+215,1992,Best Original Screenplay, Cuca Canals and Bigas Luna,Nominated,Jamon Jamon
+216,1992,Best Original Screenplay, Julio Médem and Michel Gaztambide,Nominated,Vacas
+217,1992,Best Adapted Screenplay," Antonio Larreta, Pedro Olea, Arturo Pérez-Reverte and Francisco Prada",Winner,The Fencing Master
+218,1992,Best Adapted Screenplay, Rafael Alcázar and Manuel Vázquez Montalbán,Nominated,The Greek Labyrinth
+219,1992,Best Adapted Screenplay, Adolfo Marsillach,Nominated,"I Get Off at the Next Stop, What About You?"
+220,1992,Best Spanish Language Foreign Film,Argentina,Winner,A Place in the World 
+221,1992,Best Spanish Language Foreign Film,Mexico,Nominated,Like Water for Chocolate 
+222,1992,Best Spanish Language Foreign Film,Venezuela,Nominated,Shoot to Kill 
+223,1992,Best European Film,France,Winner,Indochine 
+224,1992,Best European Film,UK,Nominated,Hidden Agenda 
+225,1992,Best European Film,UK,Nominated,Riff-Raff 
+226,1992,Best New Director, Julio Médem,Winner,Vacas
+227,1992,Best New Director, Álex de la Iglesia,Nominated,Acción mutante
+228,1992,Best New Director, Chus Gutiérrez,Nominated,Sublet
+229,1993,Best Film,,Winner,Everyone off to Jail
+230,1993,Best Film,,Nominated,Intruder
+231,1993,Best Film,,Nominated,Shadows in a Conflict
+232,1993,Best Director,Luis García Berlanga,Winner, Everyone off to Jail
+233,1993,Best Director,Vicente Aranda,Nominated, Intruder
+234,1993,Best Director,Juanma Bajo Ulloa,Nominated, The Dead Mother
+235,1993,Best Actor,Juan Echanove,Winner, Madregilda
+236,1993,Best Actor,Imanol Arias,Nominated, Intruder
+237,1993,Best Actor,Javier Bardem,Nominated, Golden Balls
+238,1993,Best Actress,Verónica Forqué,Winner, Kika
+239,1993,Best Actress,Carmen Maura,Nominated, Shadows in a Conflict
+240,1993,Best Actress,Emma Suárez,Nominated, The Red Squirrel
+241,1993,Best Supporting Actor,Fernando Valverde,Winner, Shadows in a Conflict
+242,1993,Best Supporting Actor,Juan Echanove,Nominated, My Soul Brother
+243,1993,Best Supporting Actor,Javier Gurruchaga,Nominated," Banderas, the Tyrant"
+244,1993,Best Supporting Actress,Rosa Maria Sardà,Winner, Why Do They Call It Love When They Mean Sex?
+245,1993,Best Supporting Actress,María Barranco,Nominated, The Red Squirrel
+246,1993,Best Supporting Actress,Rossy de Palma,Nominated, Kika
+247,1993,Best Original Screenplay, Mario Camus,Winner,Shadows in a Conflict
+248,1993,Best Original Screenplay, Jorge García Berlanga and Luis García Berlanga,Nominated,Everyone off to Jail
+249,1993,Best Original Screenplay, Ángel Fernández Santos and Francisco Regueiro,Nominated,Madregilda
+250,1993,Best Adapted Screenplay, Rafael Azcona and José Luis García Sánchez,Winner,"Banderas, the Tyrant"
+251,1993,Best Adapted Screenplay, Vicente Aranda,Nominated,The Bilingual Lover
+252,1993,Best Adapted Screenplay, Guillem-Jordi Graells and Gonzalo Herralde,Nominated,La Febre d'Or
+253,1993,Best Spanish Language Foreign Film,Argentina,Winner,"Gatica, El Mono "
+254,1993,Best Spanish Language Foreign Film,Chile,Nominated,Johnny Cien Pesos 
+255,1993,Best Spanish Language Foreign Film,Venezuela,Nominated,Golpes a Mi Puerta 
+256,1993,Best European Film,Poland/France,Winner,Three Colours: Blue 
+257,1993,Best European Film,UK,Nominated,The Crying Game 
+258,1993,Best European Film,UK,Nominated,Peter's Friends 
+259,1993,Best New Director, My Soul Brother,Winner,Mariano Barroso
+260,1993,Best New Director, Ciénaga,Nominated,José Ángel Bohollo
+261,1993,Best New Director, Urte ilunak,Nominated,Arantxa Lazcano
+262,1994,Best Film,,Winner,Running Out of Time
+263,1994,Best Film,,Nominated,Cradle Song
+264,1994,Best Film,,Nominated,Turkish Passion
+265,1994,Best Director,Imanol Uribe,Winner, Running Out of Time
+266,1994,Best Director,Vicente Aranda,Nominated, Turkish Passion
+267,1994,Best Director,José Luis Garci,Nominated, Cradle Song
+268,1994,Best Actor,Carmelo Gómez,Winner, Running Out of Time
+269,1994,Best Actor,Gabino Diego,Nominated, The Worst Years of Our Lives
+270,1994,Best Actor,Alfredo Landa,Nominated, Cradle Song
+271,1994,Best Actress,Cristina Marcos,Winner, All Men Are the Same
+272,1994,Best Actress,Ana Belén,Nominated, Turkish Passion
+273,1994,Best Actress,Ruth Gabriel,Nominated, Running Out of Time
+274,1994,Best Supporting Actor,Javier Bardem,Winner, Running Out of Time
+275,1994,Best Supporting Actor,Agustín González,Nominated, The Worst Years of Our Lives
+276,1994,Best Supporting Actor,Óscar Ladoire,Nominated, Alegre ma non troppo
+277,1994,Best Supporting Actress,María Luisa Ponte,Winner, Cradle Song
+278,1994,Best Supporting Actress,Silvia Munt,Nominated, Turkish Passion
+279,1994,Best Supporting Actress,Candela Peña,Nominated, Running Out of Time
+280,1994,Best Original Screenplay," Joaquín Oristrell, Yolanda García Serrano,",Winner,All Men Are the Same
+281,1994,Best Original Screenplay, Gonzalo Suárez,Nominated,The Detective and Death
+282,1994,Best Original Screenplay, David Trueba,Nominated,The Worst Years of Our Lives
+283,1994,Best Adapted Screenplay, Imanol Uribe,Winner,Running Out of Time
+284,1994,Best Adapted Screenplay, José Luis Garci and Horacio Valcárcel,Nominated,Cradle Song
+285,1994,Best Adapted Screenplay, Vicente Aranda,Nominated,Turkish Passion
+286,1994,Best New Actor,Saturnino García,Winner, Justino
+287,1994,Best New Actor,Coque Malla,Nominated, It's All Lies
+288,1994,Best New Actor,Pepón Nieto,Nominated, Running Out of Time
+289,1994,Best New Actress,Ruth Gabriel,Winner, Running Out of Time
+290,1994,Best New Actress,Elvira Mínguez,Nominated, Running Out of Time
+291,1994,Best New Actress,Candela Peña,Nominated, Running Out of Time
+292,1994,Best Spanish Language Foreign Film,Cuba,Winner,Strawberry and Chocolate 
+293,1994,Best Spanish Language Foreign Film,Colombia,Nominated,The Snail's Strategy 
+294,1994,Best Spanish Language Foreign Film,Peru,Nominated,Without Compassion 
+295,1994,Best European Film,UK,Winner,The Snapper 
+296,1994,Best European Film,UK,Nominated,Raining Stones 
+297,1994,Best European Film,UK,Nominated,The Remains of the Day 
+298,1994,Best New Director, Justino,Winner,Santiago Aguilar
+299,1994,Best New Director, Burn Me,Nominated,Héctor Carré
+300,1994,Best New Director, It's All Lies,Nominated,Álvaro Fernández Armero
+301,1994,Best Animated Film,,Winner,El Regreso del Viento del Norte
+302,1995,Best Film,,Winner,Nobody Will Speak of Us When We're Dead
+303,1995,Best Film,,Nominated,The Day of the Beast
+304,1995,Best Film,,Nominated,Mouth to Mouth
+305,1995,Best Director,Álex de la Iglesia,Winner, The Day of the Beast
+306,1995,Best Director,Pedro Almodóvar,Nominated, The Flower of My Secret
+307,1995,Best Director,Manuel Gómez Pereira,Nominated, Mouth to Mouth
+308,1995,Best Actor,Javier Bardem,Winner, Mouth to Mouth
+309,1995,Best Actor,Álex Angulo,Nominated, The Day of the Beast
+310,1995,Best Actor,Federico Luppi,Nominated, Nobody Will Speak of Us When We're Dead
+311,1995,Best Actress,Victoria Abril,Winner, Nobody Will Speak of Us When We're Dead
+312,1995,Best Actress,Ariadna Gil,Nominated, Antártida
+313,1995,Best Actress,Marisa Paredes,Nominated, The Flower of My Secret
+314,1995,Best Supporting Actor,Luis Ciges,Winner, On Earth as It Is in Heaven
+315,1995,Best Supporting Actor,Fernando Guillén Cuervo,Nominated, Mouth to Mouth
+316,1995,Best Supporting Actor,Federico Luppi,Nominated, The Law of the Border
+317,1995,Best Supporting Actress,Pilar Bardem,Winner, Nobody Will Speak of Us When We're Dead
+318,1995,Best Supporting Actress,Chus Lampreave,Nominated, The Flower of My Secret
+319,1995,Best Supporting Actress,Rossy de Palma,Nominated, The Flower of My Secret
+320,1995,Best Original Screenplay, Agustín Díaz Yanes,Winner,Nobody Will Speak of Us When We're Dead
+321,1995,Best Original Screenplay," Jorge Guerricaechevarría, Álex de la Iglesia and Manuel Gómez Pereira",Nominated,The Day of the Beast
+322,1995,Best Original Screenplay," Juan Luis Iborra, Joaquín Oristrell, Manuel Gómez Pereira and Naomi Wise",Nominated,Mouth to Mouth
+323,1995,Best Adapted Screenplay, Montxo Armendáriz and José Ángel Mañas,Winner,Stories from the Kronen
+324,1995,Best Adapted Screenplay, Jaime de Armiñán,Nominated,The Lame Pigeon
+325,1995,Best Adapted Screenplay, Ventura Pons,Nominated,What It's All About
+326,1995,Best New Actor,Santiago Segura,Winner, The Day of the Beast
+327,1995,Best New Actor,Juan Diego Botto,Nominated, Stories from the Kronen
+328,1995,Best New Actor,Carlos Fuentes,Nominated, Antártida
+329,1995,Best New Actress,Rosana Pastor,Winner, Land and Freedom
+330,1995,Best New Actress,Amara Carmona,Nominated, Alma Gitana
+331,1995,Best New Actress,María Pujalte,Nominated, Entre Rojas
+332,1995,Best Spanish Language Foreign Film,Mexico,Winner,Midaq Alley 
+333,1995,Best Spanish Language Foreign Film,Cuba,Nominated,The Elephant and the Bicycle 
+334,1995,Best Spanish Language Foreign Film,Venezuela,Nominated,Sicario 
+335,1995,Best European Film,Italy,Winner,Lamerica 
+336,1995,Best European Film,France/UK,Nominated,Carrington 
+337,1995,Best European Film,UK,Nominated,The Madness of King George 
+338,1995,Best New Director, Nobody Will Speak of Us When We're Dead,Winner,Agustín Díaz Yanes
+339,1995,Best New Director," Hi, Are You Alone?",Nominated,Icíar Bollaín
+340,1995,Best New Director, Antártida,Nominated,Manuel Huerga
+341,1996,Best Film,,Winner,Thesis
+342,1996,Best Film,,Nominated,Bwana
+343,1996,Best Film,,Nominated,The Dog in the Manger
+344,1996,Best Director,Pilar Miró,Winner, The Dog in the Manger
+345,1996,Best Director,Julio Medem,Nominated, Earth
+346,1996,Best Director,Imanol Uribe,Nominated, Bwana
+347,1996,Best Actor,Santiago Ramos,Winner, Como Un Relámpago
+348,1996,Best Actor,Antonio Banderas,Nominated, Two Much
+349,1996,Best Actor,Carmelo Gómez,Nominated, The Dog in the Manger
+350,1996,Best Actress,Emma Suárez,Winner, The Dog in the Manger
+351,1996,Best Actress,Ana Torrent,Nominated, Thesis
+352,1996,Best Actress,Concha Velasco,Nominated, Beyond the Garden
+353,1996,Best Supporting Actor,Luis Cuenca,Winner, The Good Life
+354,1996,Best Supporting Actor,Jordi Mollà,Nominated, La Celestina
+355,1996,Best Supporting Actor,Nancho Novo,Nominated, La Celestina
+356,1996,Best Supporting Actress,Mary Carrillo,Winner, Beyond the Garden
+357,1996,Best Supporting Actress,Loles León,Nominated, Libertarias
+358,1996,Best Supporting Actress,Maribel Verdú,Nominated, La Celestina
+359,1996,Best Original Screenplay, Alejandro Amenábar,Winner,Thesis
+360,1996,Best Original Screenplay, David Trueba,Nominated,The Good Life
+361,1996,Best Original Screenplay, Isabel Coixet,Nominated,Things I Never Told You
+362,1996,Best Adapted Screenplay, Pilar Miró and Rafael Pérez Sierra,Winner,The Dog in the Manger
+363,1996,Best Adapted Screenplay, Mario Camus,Nominated,Beyond the Garden
+364,1996,Best Adapted Screenplay, Rafael Azcona and José Luis García Sánchez,Nominated,Tramway to Malvarrosa
+365,1996,Best New Actor,Fele Martínez,Winner, Thesis
+366,1996,Best New Actor,Emilio Buale,Nominated, Bwana
+367,1996,Best New Actor,Liberto Rabal,Nominated, Tramway to Malvarrosa
+368,1996,Best New Actress,Íngrid Rubio,Winner, Beyond the Garden
+369,1996,Best New Actress,Lucía Jiménez,Nominated, The Good Life
+370,1996,Best New Actress,Silke Hornillos Klein,Nominated, Earth
+371,1996,Best Spanish Language Foreign Film,Argentina,Winner,Autumn Sun 
+372,1996,Best Spanish Language Foreign Film,Cuba,Nominated,Think of Me 
+373,1996,Best Spanish Language Foreign Film,Mexico,Nominated,No Return Address 
+374,1996,Best European Film,UK,Winner,Secrets & Lies 
+375,1996,Best European Film,Denmark,Nominated,Breaking the Waves 
+376,1996,Best European Film,Greece,Nominated,The Gaze of Odysseus 
+377,1996,Best New Director, Thesis,Winner,Alejandro Amenábar
+378,1996,Best New Director, The Good Life,Nominated,David Trueba
+379,1996,Best New Director," Más Que Amor, Frenesí",Nominated,"Alfonso Albacete, Miguel Bardem and David Menkes"
+380,1997,Best Film,,Winner,Lucky Star
+381,1997,Best Film,,Nominated,Martín (Hache)
+382,1997,Best Film,,Nominated,Secrets of the Heart
+383,1997,Best Director,Ricardo Franco,Winner, Lucky Star
+384,1997,Best Director,Adolfo Aristarain,Nominated, Martín (Hache)
+385,1997,Best Director,Montxo Armendáriz,Nominated, Secrets of the Heart
+386,1997,Best Actor,Antonio Resines,Winner, Lucky Star
+387,1997,Best Actor,Javier Bardem,Nominated, Live Flesh
+388,1997,Best Actor,Jordi Mollà,Nominated, Lucky Star
+389,1997,Best Actress,Cecilia Roth,Winner, Martín (Hache)
+390,1997,Best Actress,Julia Gutiérrez Caba,Nominated, The Colour of the Clouds
+391,1997,Best Actress,Maribel Verdú,Nominated, Lucky Star
+392,1997,Best Supporting Actor,José Sancho,Winner, Live Flesh
+393,1997,Best Supporting Actor,Antonio Valero,Nominated, The Colour of the Clouds
+394,1997,Best Supporting Actor,Juan Jesús Valverde,Nominated, The Rats
+395,1997,Best Supporting Actress,Charo López,Winner, Secrets of the Heart
+396,1997,Best Supporting Actress,Ángela Molina,Nominated, Live Flesh
+397,1997,Best Supporting Actress,Vicky Peña,Nominated, Secrets of the Heart
+398,1997,Best Original Screenplay, Ricardo Franco and Ángeles González Sinde,Winner,Lucky Star
+399,1997,Best Original Screenplay, Fernando León de Aranoa,Nominated,Family
+400,1997,Best Original Screenplay, Montxo Armendáriz,Nominated,Secrets of the Heart
+401,1997,Best Adapted Screenplay," Jean-Louis Benoît, Cuca Canals and Bigas Luna",Winner,The Chambermaid on the Titanic
+402,1997,Best Adapted Screenplay, Josep Maria Benet i Jornet and Ventura Pons,Nominated,Actrius
+403,1997,Best Adapted Screenplay, Ignacio Martínez de Pisón,Nominated,Backroads
+404,1997,Best New Actor,Andoni Erburu,Winner, Secrets of the Heart
+405,1997,Best New Actor,Manuel Manquiña,Nominated, Airbag
+406,1997,Best New Actor,Fernando Ramallo,Nominated, Backroads
+407,1997,Best New Actress,Isabel Ordaz,Winner, Chevrolet
+408,1997,Best New Actress,Paulina Gálvez,Nominated, Retrato de Mujer Con Hombre Al Fondo
+409,1997,Best New Actress,Blanca Portillo,Nominated, The Colour of the Clouds
+410,1997,Best Spanish Language Foreign Film,Argentina,Winner,Ashes of Paradise 
+411,1997,Best Spanish Language Foreign Film,Mexico,Nominated,The Last Call 
+412,1997,Best Spanish Language Foreign Film,Cuba,Nominated,Vertical Love 
+413,1997,Best European Film,UK,Winner,The Full Monty 
+414,1997,Best European Film,UK,Nominated,Brassed Off 
+415,1997,Best European Film,UK,Nominated,The English Patient 
+416,1997,Best New Director, Family,Winner,Fernando León de Aranoa
+417,1997,Best New Director, Memorias del Angel Caído,Nominated,David Alonso and Fernando Cámara
+418,1997,Best New Director, La Moños,Nominated,Mireia Ros
+419,1997,Best Animated Film,,Winner,Megasónicos
+420,1998,Best Film,,Winner,The Girl of Your Dreams
+421,1998,Best Film,,Nominated,Barrio
+422,1998,Best Film,,Nominated,The Grandfather
+423,1998,Best Film,,Nominated,Open Your Eyes
+424,1998,Best Director,Fernando Trueba,Winner, The Girl of Your Dreams
+425,1998,Best Director,Fernando León de Aranoa,Nominated, Barrio
+426,1998,Best Director,Alejandro Amenábar,Nominated, Open Your Eyes
+427,1998,Best Director,José Luis Garci,Nominated, The Grandfather
+428,1998,Best Actor,Antonio Resines,Winner, The Girl of Your Dreams
+429,1998,Best Actor,Fernando Fernán Gómez,Nominated, The Grandfather
+430,1998,Best Actor,Gabino Diego,Nominated, A Time for Defiance
+431,1998,Best Actor,Eduardo Noriega,Nominated, Open Your Eyes
+432,1998,Best Actress,Leonor Watling,Winner, A Time for Defiance
+433,1998,Best Actress,Penélope Cruz,Nominated, The Girl of Your Dreams
+434,1998,Best Actress,Cayetana Guillén Cuervo,Nominated, The Grandfather
+435,1998,Best Actress,Najwa Nimri,Nominated, The Lovers of the Arctic Circle
+436,1998,Best Supporting Actor,Tony Leblanc,Winner," Torrente, the Stupid Arm of the Law"
+437,1998,Best Supporting Actor,Francisco Algora,Nominated, Barrio
+438,1998,Best Supporting Actor,Agustín González,Nominated, The Grandfather
+439,1998,Best Supporting Actor,Jorge Sanz,Nominated, The Girl of Your Dreams
+440,1998,Best Supporting Actress,Rosa Maria Sardà,Winner, The Girl of Your Dreams
+441,1998,Best Supporting Actress,Adriana Ozores,Nominated, A Time for Defiance
+442,1998,Best Supporting Actress,Loles León,Nominated, The Girl of Your Dreams
+443,1998,Best Supporting Actress,Alicia Sánchez,Nominated, Barrio
+444,1998,Best Original Screenplay, Miguel Ángel Egea and Carlos López,Winner,The Girl of Your Dreams
+445,1998,Best Original Screenplay, Fernando León de Aranoa,Nominated,Barrio
+446,1998,Best Original Screenplay, Alejandro Amenábar and Mateo Gil,Nominated,Open Your Eyes
+447,1998,Best Original Screenplay, Julio Medem,Nominated,The Lovers of the Arctic Circle
+448,1998,Best Adapted Screenplay, José Luis Garci and Horacio Valcárcel,Winner,The Grandfather
+449,1998,Best Adapted Screenplay, Salvador García Ruiz,Nominated,Mensaka
+450,1998,Best Adapted Screenplay," Fernando Colomo, José Ángel Esteban, Carlos López and Nicolás Sánchez Albornoz",Nominated,Barbaric Years
+451,1998,Best Adapted Screenplay, Carlos Álvarez and Antonio José Betancor,Nominated,Mararía
+452,1998,Best New Actor,Miroslav Táborský,Winner, The Girl of Your Dreams
+453,1998,Best New Actor,Ernesto Alterio,Nominated, Barbaric Years
+454,1998,Best New Actor,Javier Cámara,Nominated," Torrente, the Stupid Arm of the Law"
+455,1998,Best New Actor,Tristán Ulloa,Nominated, Mensaka
+456,1998,Best New Actress,Goya Toledo,Winner, Mararía
+457,1998,Best New Actress,Marieta Orozco,Nominated, Barrio
+458,1998,Best New Actress,María Esteve,Nominated, Nothing in the Fridge
+459,1998,Best New Actress,Violeta Rodríguez,Nominated, Things I Left in Havana
+460,1998,Best Spanish Language Foreign Film,Argentina,Winner,The Lighthouse 
+461,1998,Best Spanish Language Foreign Film,Venezuela,Nominated,Amaneció de Golpe 
+462,1998,Best Spanish Language Foreign Film,Mexico,Nominated,Esmeralda Comes by Night 
+463,1998,Best Spanish Language Foreign Film,Cuba/Spain/Germany,Nominated,Little Tropikana 
+464,1998,Best European Film,Ireland/United States,Winner,The Boxer 
+465,1998,Best European Film,France/Italy,Nominated,April 
+466,1998,Best European Film,France,Nominated,Marius and Jeannette 
+467,1998,Best European Film,Russia/France,Nominated,The Thief 
+468,1998,Best New Director, The Miracle of P. Tinto,Winner,Javier Fesser
+469,1998,Best New Director," Torrente, the Stupid Arm of the Law",Nominated,Santiago Segura
+470,1998,Best New Director, Mensaka,Nominated,Salvador García Ruiz
+471,1998,Best New Director, The First Night of My Life,Nominated,Miguel Albaladejo
+472,1998,Best Animated Film,,Winner,¡Qué Vecinos Tan Animales!
+473,1998,Best Animated Film,,Nominated,"Ahmed, El Príncipe de La Alhambra"
+474,1999,Best Film,,Winner,All About My Mother
+475,1999,Best Film,,Nominated,Alone
+476,1999,Best Film,,Nominated,Butterfly's Tongue
+477,1999,Best Film,,Nominated,By My Side Again
+478,1999,Best Director,Pedro Almodóvar,Winner, All About My Mother
+479,1999,Best Director,José Luis Cuerda,Nominated, Butterfly's Tongue
+480,1999,Best Director,Gracia Querejeta,Nominated, By My Side Again
+481,1999,Best Director,Benito Zambrano,Nominated, Alone
+482,1999,Best Actor,Fernando Fernán Gómez,Winner, Butterfly's Tongue
+483,1999,Best Actor,Francisco Rabal,Nominated, Goya in Bordeaux
+484,1999,Best Actor,Jordi Mollà,Nominated, Second Skin
+485,1999,Best Actor,Josep Maria Pou,Nominated, Beloved/Friend
+486,1999,Best Actress,Carmen Maura,Winner, Lisbon
+487,1999,Best Actress,Cecilia Roth,Nominated, All About My Mother
+488,1999,Best Actress,Ariadna Gil,Nominated, Black Tears
+489,1999,Best Actress,Mercedes Sampietro,Nominated, By My Side Again
+490,1999,Best Supporting Actor,Álex Angulo,Winner, Dying of Laughter
+491,1999,Best Supporting Actor,Juan Diego,Nominated, Paris-Timbuktu
+492,1999,Best Supporting Actor,José Coronado,Nominated, Goya in Bordeaux
+493,1999,Best Supporting Actor,Mario Gas,Nominated, Beloved/Friend
+494,1999,Best Supporting Actress,María Galiana,Winner, Alone
+495,1999,Best Supporting Actress,Candela Peña,Nominated, All About My Mother
+496,1999,Best Supporting Actress,Adriana Ozores,Nominated, By My Side Again
+497,1999,Best Supporting Actress,Julieta Serrano,Nominated, By My Side Again
+498,1999,Best Original Screenplay, Pedro Almodóvar,Winner,All About My Mother
+499,1999,Best Original Screenplay, Benito Zambrano,Nominated,Alone
+500,1999,Best Original Screenplay," Manuel Gutiérrez Aragón, Elías Querejeta and Gracia Querejeta",Nominated,By My Side Again
+501,1999,Best Original Screenplay, Icíar Bollaín and Julio Llamazares,Nominated,Flowers from Another World
+502,1999,Best Adapted Screenplay," Rafael Azcona, José Luis Cuerda and Manuel Rivas",Winner,Butterfly's Tongue
+503,1999,Best Adapted Screenplay, Josep Maria Benet i Jornet,Nominated,Beloved/Friend
+504,1999,Best Adapted Screenplay, Miguel Albaladejo and Elvira Lindo,Nominated,Manolito Four Eyes
+505,1999,Best Adapted Screenplay, Paz Alicia Garciadiego,Nominated,No One Writes to the Colonel
+506,1999,Best New Actor,Carlos Álvarez-Nóvoa,Winner, Alone
+507,1999,Best New Actor,Eduard Fernández,Nominated, Washington Wolves
+508,1999,Best New Actor,Manuel Lozano,Nominated, Butterfly's Tongue
+509,1999,Best New Actor,Luis Tosar,Nominated, Flowers from Another World
+510,1999,Best New Actress,Silvia Abascal,Winner, The Yellow Fountain
+511,1999,Best New Actress,Ana Fernández,Nominated, Alone
+512,1999,Best New Actress,María Botto,Nominated, Jealousy
+513,1999,Best New Actress,Antonia San Juan,Nominated, All About My Mother
+514,1999,Best Spanish Language Foreign Film,Cuba/Spain,Winner,Life Is to Whistle 
+515,1999,Best Spanish Language Foreign Film,Argentina,Nominated,Crane World 
+516,1999,Best Spanish Language Foreign Film,Mexico,Nominated,"Juan, I Forgot I Don't Remember "
+517,1999,Best Spanish Language Foreign Film,Colombia/Spain,Nominated,Time Out 
+518,1999,Best European Film,Italy,Winner,Life Is Beautiful 
+519,1999,Best European Film,France/Germany,Nominated,"Black Cat, White Cat "
+520,1999,Best European Film,France,Nominated,Le Dîner de Cons 
+521,1999,Best European Film,France,Nominated,It All Starts Today 
+522,1999,Best New Director, Benito Zambrano,Winner,Alone
+523,1999,Best New Director, María Ripoll,Nominated,The Man with Rain in His Shoes
+524,1999,Best New Director, Mateo Gil,Nominated,Nobody Knows Anybody
+525,1999,Best New Director, Miguel Bardem,Nominated,The Ugliest Woman in the World
+526,1999,Best Animated Film,,Winner,Goomer
+527,2000,Best Film,,Winner,Pellet
+528,2000,Best Film,,Nominated,Common Wealth
+529,2000,Best Film,,Nominated,Leo
+530,2000,Best Film,,Nominated,You're the One
+531,2000,Best Director,José Luis Borau,Winner, Leo
+532,2000,Best Director,Álex de la Iglesia,Nominated, Common Wealth
+533,2000,Best Director,Jaime Chávarri,Nominated, Kisses for Everyone
+534,2000,Best Director,José Luis Garci,Nominated, You're the One
+535,2000,Best Actor,Juan Luis Galiardo,Winner, Goodbye from the Heart
+536,2000,Best Actor,Juan Diego Botto,Nominated, Plenilune
+537,2000,Best Actor,Carmelo Gómez,Nominated, The Goalkeeper
+538,2000,Best Actor,Miguel Ángel Solá,Nominated, I Know Who You Are
+539,2000,Best Actress,Carmen Maura,Winner, Common Wealth
+540,2000,Best Actress,Icíar Bollaín,Nominated, Leo
+541,2000,Best Actress,Lydia Bosch,Nominated, You're the One
+542,2000,Best Actress,Adriana Ozores,Nominated, Plenilune
+543,2000,Best Supporting Actor,Emilio Gutiérrez Caba,Winner, Common Wealth
+544,2000,Best Supporting Actor,Luis Cuenca,Nominated, Masterpiece
+545,2000,Best Supporting Actor,Juan Diego,Nominated, You're the One
+546,2000,Best Supporting Actor,Iñaki Miramón,Nominated, You're the One
+547,2000,Best Supporting Actress,Julia Gutiérrez Caba,Winner, You're the One
+548,2000,Best Supporting Actress,Chusa Barbero,Nominated, Kisses for Everyone
+549,2000,Best Supporting Actress,Ana Fernández,Nominated, You're the One
+550,2000,Best Supporting Actress,Terele Pávez,Nominated, Common Wealth
+551,2000,Best Original Screenplay, Verónica Fernández and Achero Mañas,Winner,Pellet
+552,2000,Best Original Screenplay, Jorge Guerricaechevarría and Álex de la Iglesia,Nominated,Common Wealth
+553,2000,Best Original Screenplay, José Luis Borau,Nominated,Leo
+554,2000,Best Original Screenplay, José Luis Garci and Horacio Valcárcel,Nominated,You're the One
+555,2000,Best Adapted Screenplay, Fernando Fernán Gómez,Winner,Lázaro de Tormes
+556,2000,Best Adapted Screenplay, Manuel Hidalgo and Gonzalo Suárez,Nominated,The Goalkeeper
+557,2000,Best Adapted Screenplay, Tomàs Aragay and Cesc Gay,Nominated,Nico and Dani
+558,2000,Best Adapted Screenplay, Salvador García Ruiz,Nominated,The Other Side
+559,2000,Best New Actor,Juan José Ballesta,Winner, Pellet
+560,2000,Best New Actor,Javier Batanero,Nominated, Leo
+561,2000,Best New Actor,Pablo Carbonell,Nominated, Masterpiece
+562,2000,Best New Actor,Jordi Vilches,Nominated, Nico and Dani
+563,2000,Best New Actress,Laia Marull,Winner, Fugitives
+564,2000,Best New Actress,Pilar López de Ayala,Nominated, Kisses for Everyone
+565,2000,Best New Actress,Luisa Martín,Nominated, Miserable Life
+566,2000,Best New Actress,Antònia Torrens,Nominated, The Sea
+567,2000,Best Spanish Language Foreign Film,Argentina,Winner,Burnt Money 
+568,2000,Best Spanish Language Foreign Film,Peru,Nominated,Captain Pantoja and the Special Services 
+569,2000,Best Spanish Language Foreign Film,Ecuador,Nominated,Rodents 
+570,2000,Best Spanish Language Foreign Film,Cuba,Nominated,The Waiting List 
+571,2000,Best European Film,Denmark/Sweden,Winner,Dancer in the Dark 
+572,2000,Best European Film,UK,Nominated,Chicken Run 
+573,2000,Best European Film,UK,Nominated,East Is East 
+574,2000,Best European Film,Sweden,Nominated,Faithless 
+575,2000,Best New Director, Pellet,Winner,Achero Mañas
+576,2000,Best New Director, I Know Who You Are,Nominated,Patricia Ferreira
+577,2000,Best New Director, Nico and Dani,Nominated,Cesc Gay
+578,2000,Best New Director, Heart of the Warrior,Nominated,Daniel Monzón
+579,2000,Best Animated Film,,Winner,La Isla del Cangrejo
+580,2000,Best Animated Film,,Nominated,10+2: El Gran Secreto
+581,2000,Best Animated Film,,Nominated,El Ladrón de Sueños
+582,2000,Best Animated Film,,Nominated,Marco Antonio. Rescate en Hong Kong
+583,2001,Best Film,,Winner,The Others
+584,2001,Best Film,,Nominated,Don't Tempt Me
+585,2001,Best Film,,Nominated,Mad Love
+586,2001,Best Film,,Nominated,Sex and Lucia
+587,2001,Best Director,Alejandro Amenábar,Winner, The Others
+588,2001,Best Director,Vicente Aranda,Nominated, Mad Love
+589,2001,Best Director,Agustín Díaz,Nominated, Don't Tempt Me
+590,2001,Best Director,Julio Medem,Nominated, Sex and Lucia
+591,2001,Best Actor,Eduard Fernández,Winner, Fausto 5.0
+592,2001,Best Actor,Sergi López,Nominated, Mine Alone
+593,2001,Best Actor,Eusebio Poncela,Nominated, Intact
+594,2001,Best Actor,Tristán Ulloa,Nominated, Sex and Lucia
+595,2001,Best Actress,Pilar López de Ayala,Winner, Mad Love
+596,2001,Best Actress,Nicole Kidman,Nominated, The Others
+597,2001,Best Actress,Victoria Abril,Nominated, Don't Tempt Me
+598,2001,Best Actress,Paz Vega,Nominated, Mine Alone
+599,2001,Best Supporting Actor,Emilio Gutiérrez,Winner, Ten Days Without Love
+600,2001,Best Supporting Actor,Antonio Dechent,Nominated, Intact
+601,2001,Best Supporting Actor,Eduard Fernández,Nominated, Sound of the Sea
+602,2001,Best Supporting Actor,Gael García,Nominated, Don't Tempt Me
+603,2001,Best Supporting Actress,Rosa Maria Sardà,Winner, No Shame
+604,2001,Best Supporting Actress,Elena Anaya,Nominated, Sex and Lucia
+605,2001,Best Supporting Actress,Najwa Nimri,Nominated, Sex and Lucia
+606,2001,Best Supporting Actress,Rosana Pastor,Nominated, Mad Love
+607,2001,Best Original Screenplay, Alejandro Amenábar,Winner,The Others
+608,2001,Best Original Screenplay, Agustín Díaz,Nominated,Don't Tempt Me
+609,2001,Best Original Screenplay, Julio Medem,Nominated,Sex and Lucia
+610,2001,Best Original Screenplay," Dominic Harari, Joaquín Oristrell, Teresa Pelegri and Cristina Rota",Nominated,No Shame
+611,2001,Best Adapted Screenplay," Jorge Juan Martínez, Carlos Molinero, Clara Pérez and Lola Salvador",Winner,Savages
+612,2001,Best Adapted Screenplay, Lluís-Anton Baulenas and Ventura Pons,Nominated,Anita Takes a Chance
+613,2001,Best Adapted Screenplay," Dominic Harari, Sigfrid Monleón, Teresa Pelegri and Ferran Torrent",Nominated,The Dutchman's Island
+614,2001,Best Adapted Screenplay, Rafael Azcona,Nominated,Sound of the Sea
+615,2001,Best New Actor,Leonardo Sbaraglia,Winner, Intact
+616,2001,Best New Actor,Biel Durán,Nominated," No Pain, No Gain"
+617,2001,Best New Actor,James Bentley,Nominated, The Others
+618,2001,Best New Actor,Rubén Ochandiano,Nominated, Broken Silence
+619,2001,Best New Actress,Paz Vega,Winner, Sex and Lucia
+620,2001,Best New Actress,Malena Alterio,Nominated, The Hold-Up
+621,2001,Best New Actress,María Isasi,Nominated, Savages
+622,2001,Best New Actress,Alakina Mann,Nominated, The Others
+623,2001,Best Spanish Language Foreign Film,Argentina,Winner,The Escape 
+624,2001,Best Spanish Language Foreign Film,Chile,Nominated,A Cab for Three 
+625,2001,Best Spanish Language Foreign Film,Cuba,Nominated,Honey for Oshun 
+626,2001,Best Spanish Language Foreign Film,Mexico,Nominated,Violet Perfume: Nobody Hears You 
+627,2001,Best European Film,France,Winner,Amélie 
+628,2001,Best European Film,UK,Nominated,Billy Elliot 
+629,2001,Best European Film,UK,Nominated,Bridget Jones's Diary 
+630,2001,Best European Film,UK,Nominated,Chocolat 
+631,2001,Best New Director, Intact,Winner,Juan Carlos Fresnadillo
+632,2001,Best New Director, Mine Alone,Nominated,Javier Balaguer
+633,2001,Best New Director," No Pain, No Gain",Nominated,Víctor García León
+634,2001,Best New Director, Savages,Nominated,Carlos Molinero
+635,2001,Best Animated Film,,Winner,El Bosque Animado
+636,2001,Best Animated Film,,Nominated,La Leyenda del Unicornio
+637,2001,Best Animated Film,,Nominated,Manuelita
+638,2001,Best Animated Film,,Nominated,Un Perro Llamado Dolor
+639,2002,Best Film,,Winner,Mondays in the Sun
+640,2002,Best Film,,Nominated,The City of No Limits
+641,2002,Best Film,,Nominated,The Other Side of the Bed
+642,2002,Best Film,,Nominated,Talk to Her
+643,2002,Best Director,Fernando León de Aranoa,Winner, Mondays in the Sun
+644,2002,Best Director,Pedro Almodóvar,Nominated, Talk to Her
+645,2002,Best Director,Antonio Hernández,Nominated, The City of No Limits
+646,2002,Best Director,Emilio Martínez,Nominated, The Other Side of the Bed
+647,2002,Best Actor,Javier Bardem,Winner, Mondays in the Sun
+648,2002,Best Actor,Sancho Gracia,Nominated, 800 Bullets
+649,2002,Best Actor,Javier Cámara,Nominated, Talk to Her
+650,2002,Best Actor,Juan Luis Galiardo,Nominated," Don Quixote, Knight Errant"
+651,2002,Best Actress,Mercedes Sampietro,Winner, Common Places
+652,2002,Best Actress,Ana Fernández,Nominated, Story of a Kiss
+653,2002,Best Actress,Adriana Ozores,Nominated, Nobody's Life
+654,2002,Best Actress,Leonor Watling,Nominated, My Mother Likes Women
+655,2002,Best Supporting Actor,Luis Tosar,Winner, Mondays in the Sun
+656,2002,Best Supporting Actor,José Coronado,Nominated, Box 507
+657,2002,Best Supporting Actor,Carlos Hipólito,Nominated, Story of a Kiss
+658,2002,Best Supporting Actor,Alberto San Juan,Nominated, The Other Side of the Bed
+659,2002,Best Supporting Actress,Geraldine Chaplin,Winner, The City of No Limits
+660,2002,Best Supporting Actress,María Esteve,Nominated, The Other Side of the Bed
+661,2002,Best Supporting Actress,Mar Regueras,Nominated, Rancour
+662,2002,Best Supporting Actress,Tina Sáinz,Nominated, Story of a Kiss
+663,2002,Best Original Screenplay, Enrique Brasó and Antonio Hernández,Winner,The City of No Limits
+664,2002,Best Original Screenplay, Fernando León de Aranoa and Ignacio del Moral,Nominated,Mondays in the Sun
+665,2002,Best Original Screenplay, Roger Gual and Julio D. Wallovits,Nominated,Smoking Room
+666,2002,Best Original Screenplay, Pedro Almodóvar,Nominated,Talk to Her
+667,2002,Best Adapted Screenplay, Adolfo Aristarain and Kathy Saavedra,Winner,Common Places
+668,2002,Best Adapted Screenplay, Manuel Gutiérrez Aragón,Nominated,"Don Quixote, Knight Errant"
+669,2002,Best Adapted Screenplay, Fernando Trueba,Nominated,The Shanghai Spell
+670,2002,Best Adapted Screenplay, Antonio Chavarrías,Nominated,You'll Be Back
+671,2002,Best New Actor,José Ángel Egido,Winner, Mondays in the Sun
+672,2002,Best New Actor,Roberto Enríquez,Nominated, The Impatient Alchemist
+673,2002,Best New Actor,Carlos Iglesias,Nominated," Don Quixote, Knight Errant"
+674,2002,Best New Actor,Guillermo Toledo,Nominated, The Other Side of the Bed
+675,2002,Best New Actress,Lolita Flores,Winner, Rancour
+676,2002,Best New Actress,Clara Lago,Nominated, Carol's Journey
+677,2002,Best New Actress,Nieve de Medina,Nominated, Mondays in the Sun
+678,2002,Best New Actress,Marta Etura,Nominated, Nobody's Life
+679,2002,Best Spanish Language Foreign Film,Uruguay,Winner,The Last Train 
+680,2002,Best Spanish Language Foreign Film,Mexico,Nominated,The Crime of Father Amaro 
+681,2002,Best Spanish Language Foreign Film,Argentina,Nominated,A Lucky Day 
+682,2002,Best Spanish Language Foreign Film,Cuba,Nominated,Nothing More 
+683,2002,Best European Film,UK/Poland,Winner,The Pianist 
+684,2002,Best European Film,UK,Nominated,Gosford Park 
+685,2002,Best European Film,Denmark,Nominated,Italian for Beginners 
+686,2002,Best European Film,Germany,Nominated,Mostly Martha 
+687,2002,Best New Director, Smoking Room,Winner,Roger Gual and Julio D. Wallovits
+688,2002,Best New Director, Nobody's Life,Nominated,Eduard Cortés
+689,2002,Best New Director, My Mother Likes Women,Nominated,Daniela Fejerman and Inés París
+690,2002,Best New Director, Stones,Nominated,Ramón Salazar
+691,2002,Best Animated Film,,Winner,"Dragon Hill, La Colina del Dragón"
+692,2002,Best Animated Film,,Nominated,"Anjé, La Leyenda del Pirineo"
+693,2002,Best Animated Film,,Nominated,El Rey de la Granja
+694,2002,Best Animated Film,,Nominated,Puerta del Tiempo
+695,2003,Best Film,,Winner,Take My Eyes
+696,2003,Best Film,,Nominated,My Life Without Me
+697,2003,Best Film,,Nominated,The 4th Floor
+698,2003,Best Film,,Nominated,Soldiers of Salamina
+699,2003,Best Director,Icíar Bollaín,Winner, Take My Eyes
+700,2003,Best Director,Isabel Coixet,Nominated, My Life Without Me
+701,2003,Best Director,Cesc Gay,Nominated, In the City
+702,2003,Best Director,David Trueba,Nominated, Soldiers of Salamina
+703,2003,Best Actor,Luis Tosar,Winner, Take My Eyes
+704,2003,Best Actor,Ernesto Alterio,Nominated, Soccer Days
+705,2003,Best Actor,Javier Cámara,Nominated, Torremolinos 73
+706,2003,Best Actor,Alfredo Landa,Nominated, The End of a Mystery
+707,2003,Best Actress,Laia Marull,Winner, Take My Eyes
+708,2003,Best Actress,Ariadna Gil,Nominated, Soldiers of Salamina
+709,2003,Best Actress,Adriana Ozores,Nominated, Sleeping Luck
+710,2003,Best Actress,Sarah Polley,Nominated, My Life Without Me
+711,2003,Best Supporting Actor,Eduard Fernández,Winner, In the City
+712,2003,Best Supporting Actor,Joan Dalmau,Nominated, Soldiers of Salamina
+713,2003,Best Supporting Actor,Juan Diego,Nominated, Torremolinos 73
+714,2003,Best Supporting Actor,José Luis Gómez,Nominated, The End of a Mystery
+715,2003,Best Supporting Actress,Candela Peña,Winner, Take My Eyes
+716,2003,Best Supporting Actress,Mónica López,Nominated, In the City
+717,2003,Best Supporting Actress,María Botto,Nominated, Soldiers of Salamina
+718,2003,Best Supporting Actress,María Pujalte,Nominated, The Carpenter's Pencil
+719,2003,Best Original Screenplay, Icíar Bollaín and Alicia Luna,Winner,Take My Eyes
+720,2003,Best Original Screenplay, Jaime Rosales and Enric Rufas,Nominated,The Hours of the Day
+721,2003,Best Original Screenplay, Tomàs Aragay and Cesc Gay,Nominated,In the City
+722,2003,Best Original Screenplay, Pablo Berger,Nominated,Torremolinos 73
+723,2003,Best Adapted Screenplay, Isabel Coixet,Winner,My Life Without Me
+724,2003,Best Adapted Screenplay, David Trueba,Nominated,Soldiers of Salamina
+725,2003,Best Adapted Screenplay, Manuel Martín Cuenca and Lorenzo Silva,Nominated,The Weakness of the Bolshevik
+726,2003,Best Adapted Screenplay, Fernando Marías,Nominated,The End of a Mystery
+727,2003,Best New Actor,Fernando Tejero,Winner, Soccer Days
+728,2003,Best New Actor,Juan Sanz,Nominated, Life Marks
+729,2003,Best New Actor,Víctor Clavijo,Nominated, The Gift of Silvia
+730,2003,Best New Actor,Óscar Jaenada,Nominated, November
+731,2003,Best New Actress,María Valverde,Winner, The Weakness of the Bolshevik
+732,2003,Best New Actress,Elisabet Gelabert,Nominated, Take My Eyes
+733,2003,Best New Actress,Verónica Sánchez,Nominated, South from Granada
+734,2003,Best New Actress,Nathalie Poza,Nominated, Soccer Days
+735,2003,Best Spanish Language Foreign Film,Argentina,Winner,Intimate Stories 
+736,2003,Best Spanish Language Foreign Film,Mexico,Nominated,El Misterio del Trinidad 
+737,2003,Best Spanish Language Foreign Film,Cuba,Nominated,Suite Habana 
+738,2003,Best Spanish Language Foreign Film,Uruguay,Nominated,A Trip to the Seaside 
+739,2003,Best European Film,Germany,Winner,Good Bye Lenin! 
+740,2003,Best European Film,Denmark,Nominated,Dogville 
+741,2003,Best European Film,UK/France/Italy,Nominated,The Dreamers 
+742,2003,Best European Film,France,Nominated,The Flower of Evil 
+743,2003,Best New Director, Sleeping Luck,Winner,Ángeles González Sinde
+744,2003,Best New Director, Soccer Days,Nominated,David Serrano
+745,2003,Best New Director, Torremolinos 73,Nominated,Pablo Berger
+746,2003,Best New Director, The Hours of the Day,Nominated,Jaime Rosales
+747,2003,Best Animated Film,,Winner,El Cid: The Legend
+748,2003,Best Animated Film,,Nominated,The 3 Wise Men
+749,2003,Best Animated Film,,Nominated,El Embrujo del Sur
+750,2003,Best Animated Film,,Nominated,Glup
+751,2004,Best Film,,Winner,The Sea Inside
+752,2004,Best Film,,Nominated,Bad Education
+753,2004,Best Film,,Nominated,Rome
+754,2004,Best Film,,Nominated,Tiovivo c. 1950
+755,2004,Best Director,Alejandro Amenábar,Winner, The Sea Inside
+756,2004,Best Director,Pedro Almodóvar,Nominated, Bad Education
+757,2004,Best Director,Adolfo Aristarain,Nominated, Rome
+758,2004,Best Director,Carlos Saura,Nominated, The 7th Day
+759,2004,Best Actor,Javier Bardem,Winner, The Sea Inside
+760,2004,Best Actor,Eduard Fernández,Nominated, Things That Make Life Worthwhile
+761,2004,Best Actor,Eduardo Noriega,Nominated, The Wolf
+762,2004,Best Actor,Guillermo Toledo,Nominated, Ferpect Crime
+763,2004,Best Actress,Lola Dueñas,Winner, The Sea Inside
+764,2004,Best Actress,Pilar Bardem,Nominated, María Querida
+765,2004,Best Actress,Ana Belén,Nominated, Things That Make Life Worthwhile
+766,2004,Best Actress,Penélope Cruz,Nominated, Don't Move
+767,2004,Best Supporting Actor,Celso Bugallo,Winner, The Sea Inside
+768,2004,Best Supporting Actor,Juan Diego,Nominated, The 7th Day
+769,2004,Best Supporting Actor,Unax Ugalde,Nominated, Héctor
+770,2004,Best Supporting Actor,Luis Varela,Nominated, Ferpect Crime
+771,2004,Best Supporting Actress,Mabel Rivera,Winner, The Sea Inside
+772,2004,Best Supporting Actress,Silvia Abascal,Nominated, The Wolf
+773,2004,Best Supporting Actress,Victoria Abril,Nominated, The 7th Day
+774,2004,Best Supporting Actress,Mercedes Sampietro,Nominated, Unconscious
+775,2004,Best Original Screenplay, Alejandro Amenábar and Mateo Gil,Winner,The Sea Inside
+776,2004,Best Original Screenplay," Dominic Harari, Joaquín Oristrell and Teresa Pelegri",Nominated,Unconscious
+777,2004,Best Original Screenplay," José Ángel Esteban, Carlos López and Manolo Matji",Nominated,Hours of Light
+778,2004,Best Original Screenplay," Adolfo Aristarain, Mario Camus and Kathy Saavedra",Nominated,Rome
+779,2004,Best Adapted Screenplay, José Rivera,Winner,The Motorcycle Diaries
+780,2004,Best Adapted Screenplay, Sergio Castellitto and Margaret Mazzantini,Nominated,Don't Move
+781,2004,Best Adapted Screenplay, Salvador García Ruiz,Nominated,Voices in the Night
+782,2004,Best Adapted Screenplay, Jaime Chávarri and Eduardo Mendoza,Nominated,The Year of the Flood
+783,2004,Best New Actor,Tamar Novas,Winner, The Sea Inside
+784,2004,Best New Actor,José Luis García Pérez,Nominated, Bear Cub
+785,2004,Best New Actor,Nilo Mur,Nominated, Héctor
+786,2004,Best New Actor,Jorge Roelas,Nominated, Tiovivo c. 1950
+787,2004,Best New Actress,Belén Rueda,Winner, The Sea Inside
+788,2004,Best New Actress,Teresa Hurtado de Ory,Nominated, Astronauts
+789,2004,Best New Actress,Mónica Cervera,Nominated, Crimen Ferpecto
+790,2004,Best New Actress,Núria Gago,Nominated, Héctor
+791,2004,Best Spanish Language Foreign Film,Uruguay,Winner,Whisky 
+792,2004,Best Spanish Language Foreign Film,Chile,Nominated,Machuca 
+793,2004,Best Spanish Language Foreign Film,Argentina,Nominated,Moon of Avellaneda 
+794,2004,Best Spanish Language Foreign Film,Colombia,Nominated,El Rey 
+795,2004,Best European Film,Germany,Winner,Head-On 
+796,2004,Best European Film,UK/Hungary,Nominated,Being Julia 
+797,2004,Best European Film,UK,Nominated,Girl with a Pearl Earring 
+798,2004,Best European Film,France,Nominated,Monsieur Ibrahim 
+799,2004,Best New Director, Frío Sol de Invierno,Winner,Pablo Malo
+800,2004,Best New Director, Astronauts,Nominated,Santi Amodeo
+801,2004,Best New Director, Kill Me Tender,Nominated,Ramón De España
+802,2004,Best New Director, Body Confusion,Nominated,Vicente Peñarrocha
+803,2004,Best Animated Film,,Winner,P3K. Pinocho 3000
+804,2004,Best Animated Film,,Nominated,Los Balunis en la Aventura del Fin del Mundo
+805,2004,Best Animated Film,,Nominated,Supertramps
+806,2005,Best Film,,Winner,The Secret Life of Words
+807,2005,Best Film,,Nominated,7 Virgins
+808,2005,Best Film,,Nominated,Obaba
+809,2005,Best Film,,Nominated,Princesas
+810,2005,Best Director,Isabel Coixet,Winner, The Secret Life of Words
+811,2005,Best Director,Alberto Rodríguez,Nominated, 7 Virgins
+812,2005,Best Director,Montxo Armendariz,Nominated, Obaba
+813,2005,Best Director,Benito Zambrano,Nominated, Habana Blues
+814,2005,Best Actor,Óscar Jaenada,Winner, Camarón: When Flamenco Became Legend
+815,2005,Best Actor,Manuel Alexandre,Nominated, Elsa & Fred
+816,2005,Best Actor,Eduard Fernández,Nominated, The Method
+817,2005,Best Actor,Juan José Ballesta,Nominated, 7 Virgins
+818,2005,Best Actress,Candela Peña,Winner, Princesas
+819,2005,Best Actress,Adriana Ozores,Nominated, Heroine
+820,2005,Best Actress,Nathalie Poza,Nominated, Hard Times
+821,2005,Best Actress,Emma Vilarasau,Nominated, Para Que No Me Olvides
+822,2005,Best Supporting Actor,Carmelo Gómez,Winner, The Method
+823,2005,Best Supporting Actor,Fernando Guillén,Nominated, Other Days Will Come
+824,2005,Best Supporting Actor,Javier Cámara,Nominated, The Secret Life of Words
+825,2005,Best Supporting Actor,Enrique Villén,Nominated, Ninette
+826,2005,Best Supporting Actress,Elvira Mínguez,Winner, Tapas
+827,2005,Best Supporting Actress,Pilar López de Ayala,Nominated, Obaba
+828,2005,Best Supporting Actress,Marta Etura,Nominated, Para Que No Me Olvides
+829,2005,Best Supporting Actress,Verónica Sánchez,Nominated, Camarón: When Flamenco Became Legend
+830,2005,Best Original Screenplay, Isabel Coixet,Winner,The Secret Life of Words
+831,2005,Best Original Screenplay, Rafael Cobos and Alberto Rodríguez,Nominated,7 Virgins
+832,2005,Best Original Screenplay, Fernando León de Aranoa,Nominated,Princesas
+833,2005,Best Original Screenplay, Eduard Cortés and Piti Español,Nominated,Other Days Will Come
+834,2005,Best Adapted Screenplay, Mateo Gil and Marcelo Piñeyro,Winner,The Method
+835,2005,Best Adapted Screenplay, Roberto Santiago,Nominated,The Longest Penalty Shot in the World
+836,2005,Best Adapted Screenplay, Montxo Armendáriz,Nominated,Obaba
+837,2005,Best Adapted Screenplay, José Luis Garci and Horacio Valcárcel,Nominated,Ninette
+838,2005,Best New Actor,Jesús Carroza,Winner, 7 Virgins
+839,2005,Best New Actor,Luis Callejo,Nominated, Princesas
+840,2005,Best New Actor,Pablo Echarri,Nominated, The Method
+841,2005,Best New Actor,Álex González,Nominated, Segundo Asalto
+842,2005,Best New Actress,Micaela Nevárez,Winner, Princesas
+843,2005,Best New Actress,Isabel Ampudia,Nominated, 15 Días Contigo
+844,2005,Best New Actress,Bárbara Lennie,Nominated, Obaba
+845,2005,Best New Actress,Alba Rodríguez,Nominated, 7 Virgins
+846,2005,Best Spanish Language Foreign Film,Argentina,Winner,Blessed by Fire 
+847,2005,Best Spanish Language Foreign Film,Uruguay,Nominated,Alma Mater 
+848,2005,Best Spanish Language Foreign Film,Chile,Nominated,My Best Enemy 
+849,2005,Best Spanish Language Foreign Film,Colombia,Nominated,Rosario Tijeras 
+850,2005,Best European Film,UK,Winner,Match Point 
+851,2005,Best European Film,Germany,Nominated,Downfall 
+852,2005,Best European Film,France,Nominated,The Chorus 
+853,2005,Best European Film,UK,Nominated,The Constant Gardener 
+854,2005,Best New Director, Tapas,Winner,José Corbacho and Juan Cruz
+855,2005,Best New Director, Aupa Etxebeste!,Nominated,Asier Altuna and Telmo Esnal
+856,2005,Best New Director, El Habitante Incierto,Nominated,Guillem Morales
+857,2005,Best New Director, Life and Colour,Nominated,Santiago Tabernero
+858,2005,Best Animated Film,,Winner,Midsummer Dream
+859,2005,Best Animated Film,,Nominated,Gisaku
+860,2006,Film,,Winner,Volver
+861,2006,Film,,Nominated,Alatriste
+862,2006,Film,,Nominated,Pan's Labyrinth
+863,2006,Film,,Nominated,Salvador (Puig Antich)
+864,2006,Director,Pedro Almodóvar,Winner, Volver
+865,2006,Director,Agustín Díaz Yanes,Nominated, Alatriste
+866,2006,Director,Guillermo del Toro,Nominated, Pan's Labyrinth
+867,2006,Director,Manuel Huerga,Nominated, Salvador (Puig Antich)
+868,2006,Best Actor,Juan Diego,Winner, Go Away from Me
+869,2006,Best Actor,Daniel Brühl,Nominated, Salvador (Puig Antich)
+870,2006,Best Actor,Sergi López,Nominated, Pan's Labyrinth
+871,2006,Best Actor,Viggo Mortensen,Nominated, Alatriste
+872,2006,Best Actress,Penélope Cruz,Winner, Volver
+873,2006,Best Actress,Silvia Abascal,Nominated, La Dama Boba
+874,2006,Best Actress,Marta Etura,Nominated, Azuloscurocasinegro
+875,2006,Best Actress,Maribel Verdú,Nominated, Pan's Labyrinth
+876,2006,Best Supporting Actor,Antonio de la Torre,Winner, Azuloscurocasinegro
+877,2006,Best Supporting Actor,Leonardo Sbaraglia,Nominated, Salvador (Puig Antich)
+878,2006,Best Supporting Actor,Juan Echanove,Nominated, Alatriste
+879,2006,Best Supporting Actor,Juan Diego Botto,Nominated, Go Away from Me
+880,2006,Best Supporting Actress,Carmen Maura,Winner, Volver
+881,2006,Best Supporting Actress,Ariadna Gil,Nominated, Alatriste
+882,2006,Best Supporting Actress,Lola Dueñas,Nominated, Volver
+883,2006,Best Supporting Actress,Blanca Portillo,Nominated, Volver
+884,2006,Best Original Screenplay, Guillermo del Toro,Winner,Pan's Labyrinth
+885,2006,Best Original Screenplay, Pedro Almodóvar,Nominated,Volver
+886,2006,Best Original Screenplay, Daniel Sánchez Arévalo,Nominated,Azuloscurocasinegro
+887,2006,Best Original Screenplay, Jorge Sánchez-Cabezudo,Nominated,The Night of the Sunflowers
+888,2006,Best Adapted Screenplay, Lluís Arcarazo,Winner,Salvador (Puig Antich)
+889,2006,Best Adapted Screenplay, Agustín Díaz Yanes,Nominated,Alatriste
+890,2006,Best Adapted Screenplay, Antonio Soler,Nominated,Summer Rain
+891,2006,Best Adapted Screenplay, José Luis Cuerda,Nominated,The Education of Fairies
+892,2006,Best New Actor,Quim Gutiérrez,Winner, Azuloscurocasinegro
+893,2006,Best New Actor,Alberto Amarilla,Nominated, Summer Rain
+894,2006,Best New Actor,Javier Cifrián,Nominated, The Near East
+895,2006,Best New Actor,Walter Vidarte,Nominated, The Night of the Sunflowers
+896,2006,Best New Actress,Ivana Baquero,Winner, Pan's Labyrinth
+897,2006,Best New Actress,Bebe,Nominated, The Education of Fairies
+898,2006,Best New Actress,Verónica Echegui,Nominated, My Name Is Juani
+899,2006,Best New Actress,Adriana Ugarte,Nominated, Doghead
+900,2006,Best Spanish Language Foreign Film,Argentina,Winner,The Hands 
+901,2006,Best Spanish Language Foreign Film,Bolivia,Nominated,American Visa 
+902,2006,Best Spanish Language Foreign Film,Chile,Nominated,En la cama 
+903,2006,Best Spanish Language Foreign Film,Colombia,Nominated,A Ton of Luck 
+904,2006,Best European Film,UK,Winner,The Queen 
+905,2006,Best European Film,UK,Nominated,Copying Beethoven 
+906,2006,Best European Film,UK,Nominated,Scoop 
+907,2006,Best European Film,Ireland,Nominated,The Wind That Shakes the Barley 
+908,2006,Best New Director, Azuloscurocasinegro,Winner,Daniel Sánchez Arévalo
+909,2006,Best New Director, Crossing Borders,Nominated,Carlos Iglesias
+910,2006,Best New Director, What I Know About Lola,Nominated,Javier Rebollo
+911,2006,Best New Director, The Night of the Sunflowers,Nominated,Jorge Sánchez-Cabezudo
+912,2006,Best Animated Film,,Winner,El Ratón Pérez
+913,2006,Best Animated Film,,Nominated,De profundis
+914,2006,Best Animated Film,,Nominated,El cubo mágico
+915,2006,Best Animated Film,,Nominated,"Teo, cazador intergaláctico"
+916,2007,Film,,Winner,Solitary Fragments
+917,2007,Film,,Nominated,13 Roses
+918,2007,Film,,Nominated,The Orphanage
+919,2007,Film,,Nominated,Seven Billiard Tables
+920,2007,Director,Jaime Rosales,Winner, Solitary Fragments
+921,2007,Director,Icíar Bollaín,Nominated, Mataharis
+922,2007,Director,Emilio Martínez Lázaro,Nominated, 13 Roses
+923,2007,Director,Gracia Querejeta,Nominated, Seven Billiard Tables
+924,2007,Best Actor,Alberto San Juan,Winner, Under the Stars
+925,2007,Best Actor,Alfredo Landa,Nominated, Sunday Light
+926,2007,Best Actor,Álvaro de Luna,Nominated, El Prado de las Estrellas
+927,2007,Best Actor,Tristán Ulloa,Nominated, Mataharis
+928,2007,Best Actress,Maribel Verdú,Winner, Seven Billiard Tables
+929,2007,Best Actress,Blanca Portillo,Nominated, Seven Billiard Tables
+930,2007,Best Actress,Belén Rueda,Nominated, The Orphanage
+931,2007,Best Actress,Emma Suárez,Nominated, Under the Stars
+932,2007,Best Supporting Actor,José Manuel Cervino,Winner, Thirteen Roses
+933,2007,Best Supporting Actor,Raúl Arévalo,Nominated, Seven Billiard Tables
+934,2007,Best Supporting Actor,Emilio Gutiérrez Cava,Nominated, Suso's Tower
+935,2007,Best Supporting Actor,Carlos Larrañaga,Nominated, Sunday Light
+936,2007,Best Supporting Actor,Julián Villagrán,Nominated, Under the Stars
+937,2007,Best Supporting Actress,Amparo Baró,Winner, Seven Billiard Tables
+938,2007,Best Supporting Actress,Geraldine Chaplin,Nominated, The Orphanage
+939,2007,Best Supporting Actress,Nuria González,Nominated, Mataharis
+940,2007,Best Supporting Actress,María Vázquez,Nominated, Mataharis
+941,2007,Best Original Screenplay, Félix Viscarret,Winner,Under the Stars
+942,2007,Best Original Screenplay, Ventura Pons,Nominated,Barcelona (Un Mapa)
+943,2007,Best Original Screenplay, Imanol Uribe,Nominated,The Nautical Chart
+944,2007,Best Original Screenplay, Tristán Ulloa,Nominated,Pudor
+945,2007,Best Original Screenplay, Laura Santullo,Nominated,The Zone
+946,2007,Best Adapted Screenplay, Sergio G. Sánchez,Winner,The Orphanage
+947,2007,Best Adapted Screenplay, Ignacio Martínez de Pisón,Nominated,13 Roses
+948,2007,Best Adapted Screenplay, Icíar Bollaín and Tatiana Rodríguez,Nominated,Mataharis
+949,2007,Best Adapted Screenplay, Gonzalo Suárez,Nominated,Oviedo Express
+950,2007,Best Adapted Screenplay, Gracia Querejeta and David Planell,Nominated,Seven Billiard Tables
+951,2007,Best New Actor,José Luis Torrijo,Winner, Solitary Fragments
+952,2007,Best New Actor,Óscar Abad,Nominated, El Prado de las Estrellas
+953,2007,Best New Actor,Gonzalo de Castro,Nominated, Suso's Tower
+954,2007,Best New Actor,Roger Princep,Nominated, The Orphanage
+955,2007,Best New Actress,Manuela Velasco,Winner, Rec
+956,2007,Best New Actress,Gala Évora,Nominated, Lola: The Movie
+957,2007,Best New Actress,Bárbara Goenaga,Nominated, Oviedo Express
+958,2007,Best New Actress,Nadia de Santiago,Nominated, 13 Roses
+959,2007,Best Spanish Language Foreign Film,Argentina,Winner,XXY 
+960,2007,Best Spanish Language Foreign Film,Cuba,Nominated,The Silly Age 
+961,2007,Best Spanish Language Foreign Film,Peru,Nominated,Black Butterfly 
+962,2007,Best Spanish Language Foreign Film,Chile,Nominated,Padre nuestro 
+963,2007,Best Animated Film,,Winner,Nocturna
+964,2007,Best Animated Film,,Nominated,Azur & Asmar: The Princes' Quest
+965,2007,Best Animated Film,,Nominated,Betizu Eta Urrezko Zintzarria
+966,2007,Best Animated Film,,Nominated,En Busca de la Piedra Mágica
+967,2007,Best New Director, The Orphanage,Winner,Juan Antonio Bayona
+968,2007,Best New Director, Under the Stars,Nominated,Félix Viscarret
+969,2007,Best New Director, Suso's Tower,Nominated,Tom Fernández
+970,2007,Best New Director, Pudor,Nominated,David and Tristán Ulloa
+971,2008,Film,,Winner,Camino
+972,2008,Film,,Nominated,The Blind Sunflowers
+973,2008,Film,,Nominated,Just Walking
+974,2008,Film,,Nominated,The Oxford Murders
+975,2008,Director,Javier Fesser,Winner, Camino
+976,2008,Director,José Luis Cuerda,Nominated, The Blind Sunflowers
+977,2008,Director,Álex de la Iglesia,Nominated, The Oxford Murders
+978,2008,Director,Agustín Díaz Yanes,Nominated, Just Walking
+979,2008,Best Actor,Benicio del Toro,Winner, Che (Part I): The Argentine
+980,2008,Best Actor,Raúl Arévalo,Nominated, The Blind Sunflowers
+981,2008,Best Actor,Javier Cámara,Nominated, Chef's Special
+982,2008,Best Actor,Diego Luna,Nominated, Just Walking
+983,2008,Best Actress,Carme Elías,Winner, Camino
+984,2008,Best Actress,Maribel Verdú,Nominated, The Blind Sunflowers
+985,2008,Best Actress,Verónica Echegui,Nominated, My Prison Yard
+986,2008,Best Actress,Ariadna Gil,Nominated, Just Walking
+987,2008,Best Supporting Actor,Jordi Dauder,Winner, Camino
+988,2008,Best Supporting Actor,José Ángel Egido,Nominated, The Blind Sunflowers
+989,2008,Best Supporting Actor,Fernando Tejero,Nominated, Chef's Special
+990,2008,Best Supporting Actor,José María Yazpik,Nominated, Just Walking
+991,2008,Best Supporting Actress,Penélope Cruz,Winner, Vicky Cristina Barcelona
+992,2008,Best Supporting Actress,Elvira Mínguez,Nominated, Cowards
+993,2008,Best Supporting Actress,Rosana Pastor,Nominated, The El Escorial Conspiracy
+994,2008,Best Supporting Actress,Tina Sáinz,Nominated, Sangre de mayo
+995,2008,Best Original Screenplay, Javier Fesser,Winner,Camino
+996,2008,Best Original Screenplay," Ignacio del Moral, Dionisio Pérez and José Antonio Quirós",Nominated,Ashes of Heaven
+997,2008,Best Original Screenplay, Agustín Díaz Yanes,Nominated,Just Walking
+998,2008,Best Original Screenplay, Chus Gutiérrez and Juan Carlos Rubio,Nominated,Return to Hansala
+999,2008,Best Adapted Screenplay, Rafael Azcona and Jose Luis Cuerda,Winner,The Blind Sunflowers
+1000,2008,Best Adapted Screenplay, Peter Buchman,Nominated,Che (Part I): The Argentine
+1001,2008,Best Adapted Screenplay, Jorge Guerricaechevarría and Álex de la Iglesia,Nominated,The Oxford Murders
+1002,2008,Best Adapted Screenplay, Ángeles González Sinde,Nominated,One Word from You
+1003,2008,Best New Actor,El Langui,Winner, El Truco del Manco
+1004,2008,Best New Actor,Luis Bermejo,Nominated, One Word from You
+1005,2008,Best New Actor,Álvaro Cervantes,Nominated, The Hanged Man
+1006,2008,Best New Actor,Martiño Rivas,Nominated, The Blind Sunflowers
+1007,2008,Best New Actress,Nerea Camacho,Winner, Camino
+1008,2008,Best New Actress,Farah Hamed,Nominated, Return to Hansala
+1009,2008,Best New Actress,Esperanza Pedreño,Nominated, One Word from You
+1010,2008,Best New Actress,Ana Wagener,Nominated, My Prison Yard
+1011,2008,Best Spanish Language Foreign Film,Chile,Winner,The Good Life 
+1012,2008,Best Spanish Language Foreign Film,Uruguay,Nominated,Acné 
+1013,2008,Best Spanish Language Foreign Film,Colombia,Nominated,Dog Eat Dog 
+1014,2008,Best Spanish Language Foreign Film,Mexico,Nominated,Lake Tahoe 
+1015,2008,Best European Film,Romania,Winner,"4 Months, 3 Weeks and 2 Days "
+1016,2008,Best European Film,UK,Nominated,The Boy in the Striped Pyjamas 
+1017,2008,Best European Film,UK,Nominated,The Dark Knight 
+1018,2008,Best European Film,Germany,Nominated,The Edge of Heaven 
+1019,2008,Best New Director, El Truco del Manco,Winner,Santiago Zannou
+1020,2008,Best New Director, A Fiancé for Yasmina,Nominated,Irene Cardona
+1021,2008,Best New Director, My Prison Yard,Nominated,Belén Macías
+1022,2008,Best New Director, Timecrimes,Nominated,Nacho Vigalondo
+1023,2008,Best Animated Film,,Winner,Missing Lynx
+1024,2008,Best Animated Film,,Nominated,Donkey Xote
+1025,2008,Best Animated Film,,Nominated,Spirit of the Forest
+1026,2008,Best Animated Film,,Nominated,"RH+, El Vampiro de Sevilla"
+1027,2009,Best Film,,Winner,Cell 211
+1028,2009,Best Film,,Nominated,Agora
+1029,2009,Best Film,,Nominated,The Dancer and the Thief
+1030,2009,Best Film,,Nominated,The Secret in Their Eyes
+1031,2009,Best Director,Daniel Monzón ,Winner, Cell 211
+1032,2009,Best Director,Alejandro Amenábar ,Nominated, Agora
+1033,2009,Best Director,Fernando Trueba ,Nominated, The Dancer and the Thief
+1034,2009,Best Director,Juan José Campanella ,Nominated, The Secret in Their Eyes
+1035,2009,Best Actor,Luis Tosar ,Winner, Cell 211
+1036,2009,Best Actor,Jordi Mollà ,Nominated, El cónsul de Sodoma
+1037,2009,Best Actor,Ricardo Darín ,Nominated, The Secret in Their Eyes
+1038,2009,Best Actor,Antonio de la Torre ,Nominated, Gordos
+1039,2009,Best Actress,Lola Dueñas ,Winner," Yo, también"
+1040,2009,Best Actress,Rachel Weisz ,Nominated, Agora
+1041,2009,Best Actress,Penélope Cruz ,Nominated, Broken Embraces
+1042,2009,Best Actress,Maribel Verdú ,Nominated, Tetro
+1043,2009,Best Supporting Actor,Raúl Arévalo ,Winner, Gordos
+1044,2009,Best Supporting Actor,Carlos Bardem ,Nominated, Cell 211
+1045,2009,Best Supporting Actor,Antonio Resines ,Nominated, Cell 211
+1046,2009,Best Supporting Actor,Ricardo Darín ,Nominated, The Dancer and the Thief
+1047,2009,Best Supporting Actress,Marta Etura ,Winner, Cell 211
+1048,2009,Best Supporting Actress,Vicky Peña ,Nominated, El cónsul de Sodoma
+1049,2009,Best Supporting Actress,Pilar Castro ,Nominated, Gordos
+1050,2009,Best Supporting Actress,Verónica Sánchez ,Nominated, Gordos
+1051,2009,Best Original Screenplay, Alejandro Amenábar and Mateo Gil,Winner,Agora 
+1052,2009,Best Original Screenplay, Rafael Cobos and Alberto Rodríguez Llibrero,Nominated,After 
+1053,2009,Best Original Screenplay, Daniel Sánchez Arévalo,Nominated,Gordos 
+1054,2009,Best Original Screenplay, Pedro Almodóvar,Nominated,Broken Embraces 
+1055,2009,Best Adapted Screenplay, Jorge Gerricaechevarría and Daniel Monzón,Winner,Cell 211 
+1056,2009,Best Adapted Screenplay," Antonio Skármeta, Fernando Trueba and Jonás Trueba",Nominated,The Dancer and the Thief 
+1057,2009,Best Adapted Screenplay," Miguel Dalmau, Miguel Ángel Fernández, Joaquín Górriz and Sigfrid Monleón",Nominated,El cónsul de Sodoma 
+1058,2009,Best Adapted Screenplay, Juan José Campanella and Eduardo Sacheri,Nominated,The Secret in Their Eyes 
+1059,2009,Best New Actor,Alberto Ammann ,Winner, Cell 211
+1060,2009,Best New Actor,Fernando Albizu ,Nominated, Gordos
+1061,2009,Best New Actor,Gorka Otxoa ,Nominated, Friend Zone
+1062,2009,Best New Actor,Pablo Pineda ,Nominated," Yo, también"
+1063,2009,Best New Actress,Soledad Villamil ,Winner, The Secret in Their Eyes
+1064,2009,Best New Actress,Blanca Romero ,Nominated, After
+1065,2009,Best New Actress,Leticia Hererro ,Nominated, Gordos
+1066,2009,Best New Actress,Nausicaa Bonnin ,Nominated, Tres dies amb la família
+1067,2009,Best Spanish Language Foreign Film,Argentina,Winner,The Secret in Their Eyes 
+1068,2009,Best Spanish Language Foreign Film,Chile,Nominated,Dawson Isla 10 
+1069,2009,Best Spanish Language Foreign Film,Uruguay,Nominated,Giant 
+1070,2009,Best Spanish Language Foreign Film,Peru,Nominated,The Milk of Sorrow 
+1071,2009,Best European Film,UK,Winner,Slumdog Millionaire 
+1072,2009,Best European Film,France,Nominated,The Class 
+1073,2009,Best European Film,Sweden,Nominated,Let the Right One In 
+1074,2009,Best European Film,France,Nominated,Welcome to the Sticks 
+1075,2009,Best New Director, Tres dies amb la família,Winner,Mar Coll 
+1076,2009,Best New Director, La vergüenza,Nominated,David Planell 
+1077,2009,Best New Director, Friend Zone,Nominated,Borja Cobeaga 
+1078,2009,Best New Director," Yo, también",Nominated,Antonio Naharro and Álvaro Pastor 
+1079,2009,Best Animated Film,,Winner,Planet 51
+1080,2009,Best Animated Film,,Nominated,Animal Channel
+1081,2009,Best Animated Film,,Nominated,"Pérez, el ratoncito de tus sueños 2"
+1082,2009,Best Animated Film,,Nominated,Cher ami
+1083,2010,Best Film,,Winner,Black Bread
+1084,2010,Best Film,,Nominated,The Last Circus
+1085,2010,Best Film,,Nominated,Buried
+1086,2010,Best Film,,Nominated,Even the Rain
+1087,2010,Best Director,Agustí Villaronga,Winner, Black Bread
+1088,2010,Best Director,Álex de la Iglesia,Nominated, The Last Circus
+1089,2010,Best Director,Rodrigo Cortés,Nominated, Buried
+1090,2010,Best Director,Icíar Bollaín,Nominated, Even the Rain
+1091,2010,Best Actor,Javier Bardem,Winner, Biutiful
+1092,2010,Best Actor,Antonio de la Torre,Nominated, The Last Circus
+1093,2010,Best Actor,Ryan Reynolds,Nominated, Buried
+1094,2010,Best Actor,Luis Tosar,Nominated, Even the Rain
+1095,2010,Best Actress,Nora Navas,Winner, Black Bread
+1096,2010,Best Actress,Elena Anaya,Nominated, Room in Rome
+1097,2010,Best Actress,Emma Suárez,Nominated, The Mosquito Net
+1098,2010,Best Actress,Belén Rueda,Nominated, Julia's Eyes
+1099,2010,Best Supporting Actor,Karra Elejalde,Winner, Even the Rain
+1100,2010,Best Supporting Actor,Eduard Fernández,Nominated, Biutiful
+1101,2010,Best Supporting Actor,Álex Angulo,Nominated, El Gran Vázquez
+1102,2010,Best Supporting Actor,Sergi López,Nominated, Black Bread
+1103,2010,Best Supporting Actress,Laia Marull,Winner, Black Bread
+1104,2010,Best Supporting Actress,Terele Pávez,Nominated, The Last Circus
+1105,2010,Best Supporting Actress,Ana Wagener,Nominated, Biutiful
+1106,2010,Best Supporting Actress,Pilar López de Ayala,Nominated, Lope
+1107,2010,Best New Actor,Francesc Colomer,Winner, Black Bread
+1108,2010,Best New Actor,Manuel Camacho,Nominated, Entrelobos
+1109,2010,Best New Actor,Juan Carlos Aduviri,Nominated, Even the Rain
+1110,2010,Best New Actor,Oriol Vila,Nominated, Todas Las Canciones Hablan de Mí
+1111,2010,Best New Actress,Marina Comas,Winner, Black Bread
+1112,2010,Best New Actress,Carolina Bang,Nominated, The Last Circus
+1113,2010,Best New Actress,Natasha Yarovenko,Nominated, Room in Rome
+1114,2010,Best New Actress,Aura Garrido,Nominated, Planes Para Mañana
+1115,2010,Original Screenplay, Chris Sparling,Winner,Buried 
+1116,2010,Original Screenplay, Álex de la Iglesia,Nominated,The Last Circus 
+1117,2010,Original Screenplay," Alejandro González Iñárritu, Armando Bó and Nicolás Giacobone",Nominated,Biutiful 
+1118,2010,Original Screenplay, Paul Laverty,Nominated,Even the Rain 
+1119,2010,Adapted Screenplay, Agustí Villaronga,Winner,Black Bread 
+1120,2010,Adapted Screenplay, Jordi Cadena,Nominated,Elisa K 
+1121,2010,Adapted Screenplay, Julio Medem,Nominated,Room in Rome 
+1122,2010,Adapted Screenplay, Ramón Salazar,Nominated,Three Steps Above Heaven 
+1123,2010,Best Spanish Language Foreign Film,Chile,Winner,The Life of Fish 
+1124,2010,Best Spanish Language Foreign Film,Peru,Nominated,Undertow 
+1125,2010,Best Spanish Language Foreign Film,Argentina,Nominated,The Man Next Door 
+1126,2010,Best Spanish Language Foreign Film,Mexico,Nominated,Hell 
+1127,2010,Best European Film,UK,Winner,The King's Speech 
+1128,2010,Best European Film,France,Nominated,A Prophet 
+1129,2010,Best European Film,France/Germany/UK,Nominated,The Ghost Writer 
+1130,2010,Best European Film,Germany,Nominated,The White Ribbon 
+1131,2010,Best New Director, Bon Appétit,Winner,David Pinillos 
+1132,2010,Best New Director, Pájaros de Papel,Nominated,Emilio Aragón 
+1133,2010,Best New Director, Planes Para Mañana,Nominated,Juana Macías 
+1134,2010,Best New Director, Todas Las Canciones Hablan de Mí,Nominated,Jonás Trueba 
+1135,2010,Best Animated Film,,Winner,Chico and Rita
+1136,2010,Best Animated Film,,Nominated,El Tesoro del Rey Midas
+1137,2010,Best Animated Film,,Nominated,La Tropa de Trapo en el País Donde Siempre Brilla el Sol
+1138,2010,Best Animated Film,,Nominated,Las Aventuras de Don Quijote
+1139,2011,Best Film,,Winner,No Rest for the Wicked
+1140,2011,Best Film,,Nominated,Blackthorn
+1141,2011,Best Film,,Nominated,The Skin I Live In
+1142,2011,Best Film,,Nominated,The Sleeping Voice
+1143,2011,Best Director,Enrique Urbizu,Winner, No Rest for the Wicked
+1144,2011,Best Director,Pedro Almodóvar,Nominated, The Skin I Live In
+1145,2011,Best Director,Mateo Gil,Nominated, Blackthorn
+1146,2011,Best Director,Benito Zambrano,Nominated, The Sleeping Voice
+1147,2011,Best Actor,José Coronado,Winner, No Rest for the Wicked
+1148,2011,Best Actor,Antonio Banderas,Nominated, The Skin I Live In
+1149,2011,Best Actor,Daniel Brühl,Nominated, Eva
+1150,2011,Best Actor,Luis Tosar,Nominated, Sleep Tight
+1151,2011,Best Actress,Elena Anaya,Winner, The Skin I Live In
+1152,2011,Best Actress,Inma Cuesta,Nominated, The Sleeping Voice
+1153,2011,Best Actress,Verónica Echegui,Nominated, Katmandú: Un Espejo en el Cielo
+1154,2011,Best Actress,Salma Hayek,Nominated, La Chispa de la Vida
+1155,2011,Best Supporting Actor,Lluís Homar,Winner, Eva
+1156,2011,Best Supporting Actor,Raúl Arévalo,Nominated, Primos
+1157,2011,Best Supporting Actor,Juanjo Artero,Nominated, No Rest for the Wicked
+1158,2011,Best Supporting Actor,Juan Diego,Nominated, 23-F: La Película
+1159,2011,Best Supporting Actress,Ana Wagener,Winner, The Sleeping Voice
+1160,2011,Best Supporting Actress,Pilar López de Ayala,Nominated, Intruders
+1161,2011,Best Supporting Actress,Goya Toledo,Nominated, Maktub
+1162,2011,Best Supporting Actress,Maribel Verdú,Nominated, De tu Ventana a la Mía
+1163,2011,Best New Actor,Jan Cornet,Winner, The Skin I Live In
+1164,2011,Best New Actor,Marc Clotet,Nominated, The Sleeping Voice
+1165,2011,Best New Actor,Adrián Lastra,Nominated, Primos
+1166,2011,Best New Actor,José Sánchez Mota,Nominated, La Chispa de la Vida
+1167,2011,Best New Actress,María León,Winner, The Sleeping Voice
+1168,2011,Best New Actress,Alba García,Nominated, Verbo
+1169,2011,Best New Actress,Michelle Jenner,Nominated, No Tengas Miedo
+1170,2011,Best New Actress,Blanca Suárez,Nominated, The Skin I Live In
+1171,2011,Original Screenplay, Enrique Urbizu and Michel Gaztambide,Winner,No Rest for the Wicked 
+1172,2011,Original Screenplay, Miguel Barros,Nominated,Blackthorn 
+1173,2011,Original Screenplay," Martí Roca, Sergi Belbel, Cristina Clemente and Aintza Serra",Nominated,Eva 
+1174,2011,Original Screenplay, Woody Allen,Nominated,Midnight in Paris 
+1175,2011,Adapted Screenplay," Ángel Cruz, Ignacio Ferreras, Paco Roca and Rosanna Cecchini",Winner,Wrinkles  
+1176,2011,Adapted Screenplay, Icíar Bollaín,Nominated,Katmandú: Un Espejo en el Cielo 
+1177,2011,Adapted Screenplay, Pedro Almodóvar,Nominated,The Skin I Live In 
+1178,2011,Adapted Screenplay, Benito Zambrano and Ignacio del Moral,Nominated,The Sleeping Voice 
+1179,2011,Best Spanish Language Foreign Film,Argentina,Winner,Chinese Take-Away 
+1180,2011,Best Spanish Language Foreign Film,Cuba,Nominated,Ticket to Paradise 
+1181,2011,Best Spanish Language Foreign Film,Mexico,Nominated,Miss Bala 
+1182,2011,Best Spanish Language Foreign Film,Chile,Nominated,Violeta 
+1183,2011,Best European Film,France,Winner,The Artist 
+1184,2011,Best European Film,UK,Nominated,Jane Eyre 
+1185,2011,Best European Film,Denmark,Nominated,Melancholia 
+1186,2011,Best European Film,France,Nominated,Carnage 
+1187,2011,Best New Director, Eva,Winner,Kike Maíllo
+1188,2011,Best New Director, Maktub,Nominated,Paco Arango
+1189,2011,Best New Director, Verbo,Nominated,Eduardo Chapero-Jackson
+1190,2011,Best New Director, De Tu Ventana a la Mía,Nominated,Paula Ortiz
+1191,2011,Best Animated Film,,Winner,Wrinkles
+1192,2011,Best Animated Film,,Nominated,Cartago Nova
+1193,2011,Best Animated Film,,Nominated,Papá Soy Una Zombi
+1194,2011,Best Animated Film,,Nominated,The Little Wizard
+1195,2012,Best Film,,Winner,Blancanieves
+1196,2012,Best Film,,Nominated,The Artist and the Model
+1197,2012,Best Film,,Nominated,Unit 7
+1198,2012,Best Film,,Nominated,The Impossible
+1199,2012,Best Director,Juan Antonio Bayona,Winner, The Impossible
+1200,2012,Best Director,Pablo Berger,Nominated, Blancanieves
+1201,2012,Best Director,Fernando Trueba,Nominated, The Artist and the Model
+1202,2012,Best Director,Alberto Rodríguez,Nominated, Unit 7
+1203,2012,Best Actor,José Sacristán,Winner, The Dead Man and Being Happy
+1204,2012,Best Actor,Daniel Giménez Cacho,Nominated, Blancanieves
+1205,2012,Best Actor,Jean Rochefort,Nominated, The Artist and the Model
+1206,2012,Best Actor,Antonio de la Torre,Nominated, Unit 7
+1207,2012,Best Actress,Maribel Verdú,Winner, Blancanieves
+1208,2012,Best Actress,Aida Folch,Nominated, The Artist and the Model
+1209,2012,Best Actress,Naomi Watts,Nominated, The Impossible
+1210,2012,Best Actress,Penélope Cruz,Nominated, Twice Born
+1211,2012,Best Supporting Actor,Julián Villagrán,Winner, Unit 7
+1212,2012,Best Supporting Actor,Josep Maria Pou,Nominated, Blancanieves
+1213,2012,Best Supporting Actor,Antonio de la Torre,Nominated, Invasor
+1214,2012,Best Supporting Actor,Ewan McGregor,Nominated, The Impossible
+1215,2012,Best Supporting Actress,Candela Peña,Winner, Una Pistola En Cada Mano
+1216,2012,Best Supporting Actress,Ángela Molina,Nominated, Blancanieves
+1217,2012,Best Supporting Actress,María León,Nominated, Carmina or Blow Up
+1218,2012,Best Supporting Actress,Chus Lampreave,Nominated, The Artist and the Model
+1219,2012,Best New Actor,Joaquín Núñez,Winner, Unit 7
+1220,2012,Best New Actor,Emilio Gavira,Nominated, Blancanieves
+1221,2012,Best New Actor,Àlex Monner,Nominated, Els Nens Salvatges
+1222,2012,Best New Actor,Tom Holland,Nominated, The Impossible
+1223,2012,Best New Actress,Macarena García,Winner, Blancanieves
+1224,2012,Best New Actress,Carmina Barrios,Nominated, Carmina or Blow Up
+1225,2012,Best New Actress,Cati Solivellas,Nominated, Els Nens Salvatges
+1226,2012,Best New Actress,Estefanía de los Santos,Nominated, Unit 7
+1227,2012,Best Original Screenplay, Pablo Berger,Winner,Blancanieves 
+1228,2012,Best Original Screenplay, Fernando Trueba and Jean-Claude Carrière,Nominated,The Artist and the Model 
+1229,2012,Best Original Screenplay," Martí Roca, Rafael Cobos López and Alberto Rodríguez Librero",Nominated,Unit 7 
+1230,2012,Best Original Screenplay, Sergio G. Sánchez and María Belón,Nominated,The Impossible 
+1231,2012,Best Adapted Screenplay," Javier Barreira, Gorka Magallón, Ignacio del Moral, Jordi Gasull and Neil Landau",Winner,"Tad, The Lost Explorer "
+1232,2012,Best Adapted Screenplay, Jorge Guerricaechevarría and Sergio G. Sánchez,Nominated,The End  
+1233,2012,Best Adapted Screenplay, Javier Gullón and Jorge Arenillas,Nominated,Invasor 
+1234,2012,Best Adapted Screenplay, Ramón Salazar Hoogers,Nominated,I Want You 
+1235,2012,Best Adapted Screenplay, Manuel Rivas,Nominated,All Is Silence 
+1236,2012,Best Spanish Language Foreign Film,Cuba/Spain,Winner,Juan of the Dead 
+1237,2012,Best Spanish Language Foreign Film,Paraguay,Nominated,7 Boxes 
+1238,2012,Best Spanish Language Foreign Film,Mexico,Nominated,After Lucia 
+1239,2012,Best Spanish Language Foreign Film,Argentina,Nominated,Clandestine Childhood 
+1240,2012,Best European Film,France,Winner,The Intouchables 
+1241,2012,Best European Film,France/Belgium,Nominated,Rust and Bone 
+1242,2012,Best European Film,France,Nominated,In the House 
+1243,2012,Best European Film,UK,Nominated,Shame 
+1244,2012,Best New Director," Tad, The Lost Explorer",Winner,Enrique Gato
+1245,2012,Best New Director, Carmina or Blow Up,Nominated,Paco León
+1246,2012,Best New Director, The Body,Nominated,Oriol Paulo
+1247,2012,Best New Director, Evelyn,Nominated,Isabel de Ocampo
+1248,2012,Best Animated Film,,Winner,"Tad, The Lost Explorer"
+1249,2012,Best Animated Film,,Nominated,El Corazón del Roble
+1250,2012,Best Animated Film,,Nominated,O Apóstolo
+1251,2012,Best Animated Film,,Nominated,The Wish Fish
+1252,2013,Best Film,,Winner,Living Is Easy with Eyes Closed
+1253,2013,Best Film,,Nominated,15 Years and One Day
+1254,2013,Best Film,,Nominated,Cannibal
+1255,2013,Best Film,,Nominated,Family United
+1256,2013,Best Film,,Nominated,Wounded
+1257,2013,Best Director,David Trueba,Winner, Living Is Easy with Eyes Closed
+1258,2013,Best Director,Gracia Querejeta,Nominated, 15 Years and One Day
+1259,2013,Best Director,Manuel Martín Cuenca,Nominated, Cannibal
+1260,2013,Best Director,Daniel Sánchez Arévalo,Nominated, Family United
+1261,2013,Best Actor,Javier Cámara,Winner, Living Is Easy with Eyes Closed
+1262,2013,Best Actor,Tito Valverde,Nominated, 15 Years and One Day
+1263,2013,Best Actor,Antonio de la Torre,Nominated, Cannibal
+1264,2013,Best Actor,Eduard Fernández,Nominated, Todas Las Mujeres
+1265,2013,Best Actress,Marián Álvarez,Winner, Wounded
+1266,2013,Best Actress,Inma Cuesta,Nominated, Three Many Weddings
+1267,2013,Best Actress,Aura Garrido,Nominated, Stockholm
+1268,2013,Best Actress,Nora Navas,Nominated, Tots Volem el Millor Per a Ella
+1269,2013,Best Supporting Actor,Roberto Álamo,Winner, Family United
+1270,2013,Best Supporting Actor,Carlos Bardem,Nominated, Scorpion in Love
+1271,2013,Best Supporting Actor,Juan Diego Botto,Nominated, Ismael
+1272,2013,Best Supporting Actor,Antonio de la Torre,Nominated, Family United
+1273,2013,Best Supporting Actress,Terele Pávez,Winner, Witching and Bitching
+1274,2013,Best Supporting Actress,Susi Sánchez,Nominated, 10.000 Noches En Ninguna Parte
+1275,2013,Best Supporting Actress,Maribel Verdú,Nominated, 15 Years and One Day
+1276,2013,Best Supporting Actress,Nathalie Poza,Nominated, Todas Las Mujeres
+1277,2013,Best New Actor,Javier Pereira,Winner, Stockholm
+1278,2013,Best New Actor,Berto Romero,Nominated, Three Many Weddings
+1279,2013,Best New Actor,Hovik Keuchkerian,Nominated, Scorpion in Love
+1280,2013,Best New Actor,Patrick Criado,Nominated, Family United
+1281,2013,Best New Actress,Natalia de Molina,Winner, Living Is Easy with Eyes Closed
+1282,2013,Best New Actress,Belén López,Nominated, 15 Years and One Day
+1283,2013,Best New Actress,Olimpia Melinte,Nominated, Cannibal
+1284,2013,Best New Actress,María Morales,Nominated, Todas Las Mujeres
+1285,2013,Best Original Screenplay, David Trueba,Winner,Living Is Easy with Eyes Closed
+1286,2013,Best Original Screenplay, Pablo Alén and Breixo Corral,Nominated,Three Many Weddings
+1287,2013,Best Original Screenplay, Daniel Sánchez Arévalo,Nominated,Family United
+1288,2013,Best Original Screenplay, Fernando Franco García and Enric Rufas,Nominated,Wounded
+1289,2013,Best Adapted Screenplay, Alejandro Hernández and Mariano Barroso,Winner,Todas Las Mujeres
+1290,2013,Best Adapted Screenplay, Santiago A. Zannou and Carlos Bardem,Nominated,Scorpion in Love
+1291,2013,Best Adapted Screenplay, Manuel Martín Cuenca and Alejandro Hernández,Nominated,Cannibal
+1292,2013,Best Adapted Screenplay, Jorge A. Lara and Francisco Roncal,Nominated,Zip & Zap and the Marble Gang
+1293,2013,Best Spanish Language Foreign Film,Venezuela/Spain,Winner,Blue and Not So Pink 
+1294,2013,Best Spanish Language Foreign Film,Argentina/Spain,Nominated,The German Doctor 
+1295,2013,Best Spanish Language Foreign Film,Chile/Spain,Nominated,Gloria 
+1296,2013,Best Spanish Language Foreign Film,Mexico/Spain,Nominated,The Golden Dream 
+1297,2013,Best European Film,Austria,Winner,Amour 
+1298,2013,Best European Film,Denmark/Sweden,Nominated,The Hunt 
+1299,2013,Best European Film,Italy/France,Nominated,The Great Beauty 
+1300,2013,Best European Film,France/Belgium/Spain,Nominated,Blue Is the Warmest Colour 
+1301,2013,Best New Director, Wounded,Winner,Fernando Franco García
+1302,2013,Best New Director, The Plague,Nominated,Neus Ballús
+1303,2013,Best New Director, Mindscape,Nominated,Jorge Dorado
+1304,2013,Best New Director, Stockholm,Nominated,Rodrigo Sorogoyen
+1305,2013,Best Animated Film,,Winner,Underdogs
+1306,2013,Best Animated Film,,Nominated,El Extraordinario Viaje de Lucius Dumb
+1307,2013,Best Animated Film,,Nominated,Hiroku: Defenders of Gaia
+1308,2013,Best Animated Film,,Nominated,Justin and the Knights of Valour
+1309,2014,Best Film,,Winner,Marshland
+1310,2014,Best Film,,Nominated,El Niño
+1311,2014,Best Film,,Nominated,Loreak
+1312,2014,Best Film,,Nominated,Wild Tales
+1313,2014,Best Film,,Nominated,Magical Girl
+1314,2014,Best Director,Alberto Rodríguez,Winner, Marshland
+1315,2014,Best Director,Daniel Monzón,Nominated, El Niño
+1316,2014,Best Director,Carlos Vermut,Nominated, Magical Girl
+1317,2014,Best Director,Damián Szifrón,Nominated, Wild Tales
+1318,2014,Best Actor,Javier Gutiérrez,Winner, Marshland
+1319,2014,Best Actor,Raúl Arévalo,Nominated, Marshland
+1320,2014,Best Actor,Ricardo Darín,Nominated, Wild Tales
+1321,2014,Best Actor,Luis Bermejo,Nominated, Magical Girl
+1322,2014,Best Actress,Bárbara Lennie,Winner, Magical Girl
+1323,2014,Best Actress,María León,Nominated, Marsella
+1324,2014,Best Actress,Macarena Gómez,Nominated, Shrew's Nest
+1325,2014,Best Actress,Elena Anaya,Nominated, Todos Están Muertos
+1326,2014,Best Supporting Actor,Karra Elejalde,Winner, Spanish Affair
+1327,2014,Best Supporting Actor,Eduard Fernández,Nominated, El Niño
+1328,2014,Best Supporting Actor,Antonio de la Torre,Nominated, Marshland
+1329,2014,Best Supporting Actor,José Sacristán,Nominated, Magical Girl
+1330,2014,Best Supporting Actress,Carmen Machi,Winner, Spanish Affair
+1331,2014,Best Supporting Actress,Mercedes León,Nominated, Marshland
+1332,2014,Best Supporting Actress,Bárbara Lennie,Nominated, El Niño
+1333,2014,Best Supporting Actress,Goya Toledo,Nominated, Marsella
+1334,2014,Best New Actor,Dani Rovira,Winner, Spanish Affair
+1335,2014,Best New Actor,David Verdaguer,Nominated," 10,000 km"
+1336,2014,Best New Actor,Jesús Castro,Nominated, El Niño
+1337,2014,Best New Actor,Israel Elejalde,Nominated, Magical Girl
+1338,2014,Best New Actress,Nerea Barros,Winner, Marshland
+1339,2014,Best New Actress,Natalia Tena,Nominated," 10,000 km"
+1340,2014,Best New Actress,Yolanda Ramos,Nominated, Carmina y Amén
+1341,2014,Best New Actress,Ingrid García Jonsson,Nominated, Beautiful Youth
+1342,2014,Best Original Screenplay, Alberto Rodríguez and Rafael Cobos,Winner,Marshland
+1343,2014,Best Original Screenplay, Daniel Monzón and Jorge Guerricaechevarría,Nominated,El Niño
+1344,2014,Best Original Screenplay, Carlos Vermut,Nominated,Magical Girl
+1345,2014,Best Original Screenplay, Damián Szifrón,Nominated,Wild Tales
+1346,2014,Best Adapted Screenplay," Javier Fesser, Claro García and Cristóbal Ruiz",Winner,Mortadelo and Filemon: Mission Implausible
+1347,2014,Best Adapted Screenplay, Ignacio Vilar and Carlos Asorey,Nominated,A Esmorga
+1348,2014,Best Adapted Screenplay," Chema Rodríguez, Pablo Burgués and David Planell",Nominated,Anochece en la India
+1349,2014,Best Adapted Screenplay, Anna Soler-Pont,Nominated,Rastres de Sàndal
+1350,2014,Best Spanish Language Foreign Film,Argentina/Spain,Winner,Wild Tales 
+1351,2014,Best Spanish Language Foreign Film,Uruguay,Nominated,Mr. Kaplan 
+1352,2014,Best Spanish Language Foreign Film,Cuba,Nominated,Behavior 
+1353,2014,Best Spanish Language Foreign Film,Venezuela/Spain,Nominated,La Distancia Más Larga 
+1354,2014,Best European Film,Poland/Denmark,Winner,Ida 
+1355,2014,Best European Film,France/Brazil,Nominated,The Salt of the Earth 
+1356,2014,Best European Film,Sweden,Nominated,The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared 
+1357,2014,Best European Film,France,Nominated,Serial (Bad) Weddings 
+1358,2014,Best New Director," 10,000 km",Winner,Carlos Marqués-Marcet
+1359,2014,Best New Director, Shrew's Nest,Nominated,Juanfer Andrés and Esteban Roel
+1360,2014,Best New Director, Paco de Lucía: La Búsqueda,Nominated,Curro Sánchez Varela
+1361,2014,Best New Director, Todos Están Muertos,Nominated,Beatriz Sanchís
+1362,2014,Best Animated Film,,Winner,Mortadelo and Filemon: Mission Implausible
+1363,2014,Best Animated Film,,Nominated,Dixie y La Rebelión Zombie
+1364,2014,Best Animated Film,,Nominated,La Tropa de Trapo en la Selva del Arco Iris
+1365,2015,Best Film,,Winner,Truman
+1366,2015,Best Film,,Nominated,A cambio de nada
+1367,2015,Best Film,,Nominated,The Bride
+1368,2015,Best Film,,Nominated,Nobody Wants the Night
+1369,2015,Best Film,,Nominated,A Perfect Day
+1370,2015,Best Director,Cesc Gay,Winner, Truman
+1371,2015,Best Director,Paula Ortiz,Nominated, The Bride
+1372,2015,Best Director,Isabel Coixet,Nominated, Nobody Wants the Night
+1373,2015,Best Director,Fernando León de Aranoa,Nominated, A Perfect Day
+1374,2015,Best Actor,Ricardo Darín,Winner, Truman as Julián
+1375,2015,Best Actor,Pedro Casablanc,Nominated, B as Luis Bárcenas
+1376,2015,Best Actor,Luis Tosar,Nominated, Retribution as Carlos
+1377,2015,Best Actor,Asier Etxeandia,Nominated, The Bride as El novio
+1378,2015,Best Actress,Natalia de Molina,Winner, Techo y comida as Rocío
+1379,2015,Best Actress,Inma Cuesta,Nominated, The Bride as La novia
+1380,2015,Best Actress,Penélope Cruz,Nominated, Ma Ma as Magda
+1381,2015,Best Actress,Juliette Binoche,Nominated, Nobody Wants the Night as Josephine Peary
+1382,2015,Best Supporting Actor,Javier Cámara,Winner, Truman as Tomás
+1383,2015,Best Supporting Actor,Felipe García Vélez,Nominated, A cambio de nada as Justo Caralimpia
+1384,2015,Best Supporting Actor,Manolo Solo,Nominated, B as Pablo Ruz
+1385,2015,Best Supporting Actor,Tim Robbins,Nominated, A Perfect Day as B
+1386,2015,Best Supporting Actress,Luisa Gavasa,Winner, The Bride as Madre
+1387,2015,Best Supporting Actress,Elvira Mínguez,Nominated, Retribution as Belén
+1388,2015,Best Supporting Actress,Marian Álvarez,Nominated, Felices 140 as Cati
+1389,2015,Best Supporting Actress,Nora Navas,Nominated, Felices 140 as Martina
+1390,2015,Best New Actor,Miguel Herrán,Winner, A cambio de nada as Darío
+1391,2015,Best New Actor,Fernando Colomo,Nominated, Isla bonita as Fernando
+1392,2015,Best New Actor,Manuel Burque,Nominated, Requisitos para ser una persona normal as Borja
+1393,2015,Best New Actor,Álex Garcia,Nominated, The Bride as Leonardo
+1394,2015,Best New Actress,Irene Escolar,Winner, Un otoño sin Berlín as June
+1395,2015,Best New Actress,Antonia Guzmán,Nominated, A cambio de nada as Antonia
+1396,2015,Best New Actress,Iraia Elias,Nominated, Amama as Amaia
+1397,2015,Best New Actress,Yorkanda Ariosa,Nominated, El Rey de La Habana as Magda
+1398,2015,Best Original Screenplay, Cesc Gay & Tomàs Aragay,Winner,Truman
+1399,2015,Best Original Screenplay, Daniel Guzmán,Nominated,A cambio de nada
+1400,2015,Best Original Screenplay, Alberto Marini,Nominated,Retribution
+1401,2015,Best Original Screenplay, Borja Cobeaga,Nominated,Negociador
+1402,2015,Best Adapted Screenplay, Fernando León de Aranoa,Winner,A Perfect Day
+1403,2015,Best Adapted Screenplay, David Ilundain,Nominated,B
+1404,2015,Best Adapted Screenplay, Agustí Villaronga,Nominated,El Rey de La Habana
+1405,2015,Best Adapted Screenplay, Paula Ortiz & Javier García Arredondo,Nominated,The Bride
+1406,2015,Best Spanish Language Foreign Film,Argentina,Winner,The Clan 
+1407,2015,Best Spanish Language Foreign Film,Chile,Nominated,La once 
+1408,2015,Best Spanish Language Foreign Film,Peru,Nominated,Magallanes 
+1409,2015,Best Spanish Language Foreign Film,Uruguay,Nominated,Vestido de novia 
+1410,2015,Best European Film,France/Turkey/Germany,Winner,Mustang 
+1411,2015,Best European Film,France,Nominated,Sur le chemin de l'école 
+1412,2015,Best European Film,Russia,Nominated,Leviathan 
+1413,2015,Best European Film,UK/France/United States,Nominated,Macbeth 
+1414,2015,Best New Director, A cambio de nada,Winner,Daniel Guzmán
+1415,2015,Best New Director, Retribution,Nominated,Dani de la Torre
+1416,2015,Best New Director, Requisitos para ser una persona normal,Nominated,Leticia Dolera
+1417,2015,Best New Director, Techo y comida,Nominated,Juan Miguel del Castillo
+1418,2015,Best Animated Film,,Winner,Capture the Flag
+1419,2015,Best Animated Film,,Nominated,Meñique y el espejo mágico
+1420,2015,Best Animated Film,,Nominated,Holy Night! Noche ¿de paz?
+1421,2015,Best Animated Film,,Nominated,Yoko eta lagunak (Yoko y sus amigos)
+1422,2016,Best Film,,Winner,The Fury of a Patient Man
+1423,2016,Best Film,,Nominated,Smoke & Mirrors
+1424,2016,Best Film,,Nominated,Julieta
+1425,2016,Best Film,,Nominated,Que Dios nos perdone
+1426,2016,Best Film,,Nominated,A Monster Calls
+1427,2016,Best Director,J. A. Bayona,Winner, A Monster Calls
+1428,2016,Best Director,Pedro Almodóvar,Nominated, Julieta
+1429,2016,Best Director,Alberto Rodríguez,Nominated, Smoke & Mirrors
+1430,2016,Best Director,Rodrigo Sorogoyen,Nominated, Que Dios nos perdone
+1431,2016,Best Actor,Roberto Álamo,Winner, Que Dios nos perdone
+1432,2016,Best Actor,Luis Callejo,Nominated, The Fury of a Patient Man
+1433,2016,Best Actor,Antonio de la Torre,Nominated, The Fury of a Patient Man
+1434,2016,Best Actor,Eduard Fernández,Nominated, Smoke & Mirrors
+1435,2016,Best Actress,Emma Suárez,Winner, Julieta
+1436,2016,Best Actress,Penélope Cruz,Nominated, The Queen of Spain
+1437,2016,Best Actress,Bárbara Lennie,Nominated, María (y los demás)
+1438,2016,Best Actress,Carmen Machi,Nominated, La puerta abierta
+1439,2016,Best Supporting Actor,Manolo Solo,Winner, The Fury of a Patient Man
+1440,2016,Best Supporting Actor,Karra Elejalde,Nominated, 100 metros
+1441,2016,Best Supporting Actor,Javier Gutiérrez,Nominated, The Olive Tree
+1442,2016,Best Supporting Actor,Javier Pereira,Nominated, Que Dios nos perdone
+1443,2016,Best Supporting Actress,Emma Suárez,Winner, La próxima piel
+1444,2016,Best Supporting Actress,Terele Pávez,Nominated, La puerta abierta
+1445,2016,Best Supporting Actress,Candela Peña,Nominated," Kiki, el amor se hace"
+1446,2016,Best Supporting Actress,Sigourney Weaver,Nominated, A Monster Calls
+1447,2016,Best New Actor,Carlos Santos,Winner, Smoke & Mirrors
+1448,2016,Best New Actor,Rodrigo de la Serna,Nominated, To Steal from a Thief
+1449,2016,Best New Actor,Ricardo Gómez,Nominated, 1898. Los últimos de Filipinas
+1450,2016,Best New Actor,Raúl Jiménez,Nominated, The Fury of a Patient Man
+1451,2016,Best New Actress,Anna Castillo,Winner, The Olive Tree
+1452,2016,Best New Actress,Belén Cuesta,Nominated," Kiki, el amor se hace"
+1453,2016,Best New Actress,Ruth Díaz,Nominated, The Fury of a Patient Man
+1454,2016,Best New Actress,Sílvia Pérez Cruz,Nominated, Cerca de tu casa
+1455,2016,Best Original Screenplay, Raúl Arévalo & David Pulido,Winner,The Fury of a Patient Man
+1456,2016,Best Original Screenplay, Jorge Guerricaechevarría,Nominated,To Steal from a Thief
+1457,2016,Best Original Screenplay, Paul Laverty,Nominated,The Olive Tree
+1458,2016,Best Original Screenplay, Isabel Peña & Rodrigo Sorogoyen,Nominated,Que Dios nos perdone
+1459,2016,Best Adapted Screenplay, Alberto Rodríguez & Rafael Cobos,Winner,Smoke & Mirrors
+1460,2016,Best Adapted Screenplay, Pedro Almodóvar,Nominated,Julieta
+1461,2016,Best Adapted Screenplay, Paco León & Fernando Pérez,Nominated,"Kiki, el amor se hace"
+1462,2016,Best Adapted Screenplay, Patrick Ness,Nominated,A Monster Calls
+1463,2016,Best Spanish Language Foreign Film,Argentina,Winner,The Distinguished Citizen 
+1464,2016,Best Spanish Language Foreign Film,Colombia,Nominated,Anna 
+1465,2016,Best Spanish Language Foreign Film,Venezuela,Nominated,From Afar 
+1466,2016,Best Spanish Language Foreign Film,Mexico,Nominated,The Chosen Ones 
+1467,2016,Best European Film,France/Germany/Belgium,Winner,Elle 
+1468,2016,Best European Film,UK/United States,Nominated,Genius 
+1469,2016,Best European Film,Hungary,Nominated,Son of Saul 
+1470,2016,Best European Film,UK/France/Belgium,Nominated,"I, Daniel Blake "
+1471,2016,Best New Director, The Fury of a Patient Man,Winner,Raúl Arévalo
+1472,2016,Best New Director, 1898. Los últimos de Filipinas,Nominated,Salvador Calvo
+1473,2016,Best New Director, El rey tuerto,Nominated,Marc Crehuet
+1474,2016,Best New Director, María (y los demás),Nominated,Nely Reguera
+1475,2016,Best Animated Film,,Winner,Psiconautas. Los niños olvidados
+1476,2016,Best Animated Film,,Nominated,Ozzy
+1477,2016,Best Animated Film,,Nominated,Teresa eta Galtzagorri (Teresa y Tim)
