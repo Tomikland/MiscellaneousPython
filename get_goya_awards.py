@@ -3,37 +3,23 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-YEAR_TO_EXTENSION = {1986:"1st_Goya_Awards",
-1987:"2nd_Goya_Awards",
-1988:"3rd_Goya_Awards",
-1989:"4th_Goya_Awards",
-1990:"5th_Goya_Awards",
-1991:"6th_Goya_Awards",
-1992:"7th_Goya_Awards",
-1993:"8th_Goya_Awards",
-1994:"9th_Goya_Awards",
-1995:"10th_Goya_Awards",
-1996:"11th_Goya_Awards",
-1997:"12th_Goya_Awards",
-1998:"13th_Goya_Awards",
-1999:"14th_Goya_Awards",
-2000:"15th_Goya_Awards",
-2001:"16th_Goya_Awards",
-2002:"17th_Goya_Awards",
-2003:"18th_Goya_Awards",
-2004:"19th_Goya_Awards",
-2005:"20th_Goya_Awards",
-2006:"21st_Goya_Awards",
-2007:"22nd_Goya_Awards",
-2008:"23rd_Goya_Awards",
-2009:"24th_Goya_Awards",
-2010:"25th_Goya_Awards",
-2011:"26th_Goya_Awards",
-2012:"27th_Goya_Awards",
-2013:"28th_Goya_Awards",
-2014:"29th_Goya_Awards",
-2015:"30th_Goya_Awards",
-2016:"31st_Goya_Awards"}
+YEAR_TO_EXTENSION = {1986:"1st",1987:"2nd",1988:"3rd",1989:"4th",1990:"5th",
+                     1991:"6th",1992:"7th",1993:"8th",1994:"9th",1995:"10th",
+                     1996:"11th",1997:"12th",1998:"13th",1999:"14th",2000:"15th",
+                     2001:"16th",2002:"17th",2003:"18th",2004:"19th",2005:"20th",
+                     2006:"21st",2007:"22nd",2008:"23rd",2009:"24th",2010:"25th",
+                     2011:"26th",2012:"27th",2013:"28th",2014:"29th",2015:"30th",
+                     2016:"31st"}
+
+#Some awards give the movie name first, then the winner.
+#These need to be detected, and swapped manually. Unfortunately.
+AWARDS_WITH_FLIPPED_WINNERS = {"Best Original Screenplay", "Best Adapted Screenplay",
+                               "Best Spanish Language Foreign Film", "Best European Film",
+                               "Best New Director", "Best Screenplay", "Original Screenplay",
+                               "Adapted Screenplay"}
+
+#Global count of the number of nominations, used to identify specific nominations.
+nomination_id = 1
 
 def get_nominees(table):
     #The runner up ul is nested in the winner ul.
@@ -61,12 +47,13 @@ def get_awards(table):
     return [award.text for award in table.find_all("th")]
 
 separator_regex = re.compile(" –|–|• ")
-#TODO: Certain awards are reversed.
-#Just have to pass in the category and detect manually
-def split_nominee(raw_nominee):
+def split_nominee(raw_nominee, award_name):
     parts = separator_regex.split(raw_nominee)
 
-    winner = parts[0]
+    if award_name in AWARDS_WITH_FLIPPED_WINNERS:
+        parts.reverse()
+
+    winner = parts[0] if len(parts) > 1 else None
 
     #The winner can be the movie itself. There is no separator in that case.
     movie = parts[1] if len(parts) > 1 else parts[0]
@@ -74,7 +61,7 @@ def split_nominee(raw_nominee):
     return winner, movie
 
 def process_movie(year, movie_extension):
-    page = requests.get("https://en.wikipedia.org/wiki/" + movie_extension)
+    page = requests.get("https://en.wikipedia.org/wiki/" + movie_extension + '_Goya_Awards')
 
     soup = BeautifulSoup(page.text, 'html.parser')
 
@@ -88,27 +75,34 @@ def process_movie(year, movie_extension):
         
         awards_with_nominees = list(zip(awards, nominee_groups))
 
-        
         results = []
+        
+        global nomination_id
+
         for award, nominees in awards_with_nominees:
             #write winner
-            winner_name, movie_name = split_nominee(nominees[0])
-            results.append({"award":award, "name":winner_name, 'winner':'Yes',
-                         "movie":movie_name, "year":year})
+            winner_name, movie_name = split_nominee(nominees[0], award)
+            results.append({"nomination_id":nomination_id, "award":award, "name":winner_name,
+                            "is_winner":"Winner", "movie":movie_name, "year":year})
+
+            nomination_id += 1
             
             #write other nominees. [1:] to cut off winner.
             for nominee in nominees[1:]:
-                nominee_name, movie_name = split_nominee(nominee)
-                results.append({"award":award, "name":nominee_name, 'winner':'Yes',
-                             "movie":movie_name, "year":year})
+                nominee_name, movie_name = split_nominee(nominee, award)
+                results.append({"nomination_id":nomination_id, "award":award, "name":nominee_name,
+                                "is_winner":"Nominated", "movie":movie_name, "year":year})
+                nomination_id += 1
+                
         return results
 
 
 def main():
     #TODO: NamedTuple would be better than the dict
     with open('goyaawards.csv', 'w') as file:
-        fieldnames = 'award', 'name', 'winner', 'movie', 'year'
+        fieldnames = 'nomination_id', 'year', 'award', 'name', 'is_winner', 'movie'
         writer = csv.DictWriter(file, fieldnames=fieldnames, lineterminator='\n')
+        writer.writeheader()
         for year in YEAR_TO_EXTENSION:
             results = process_movie(year, YEAR_TO_EXTENSION[year])
             for row in results:
